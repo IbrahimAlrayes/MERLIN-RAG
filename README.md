@@ -4,6 +4,12 @@ This repository explores building a Retrieval-Augmented Generation (RAG) system 
 The project focuses on integrating **web search tools, Google Trends, Wikipedia/Wikidata, and news feeds** to discover and evaluate popular or emerging people across countries.
 
 ---
+## 🚀 Setup Instructions
+
+To run this project, you’ll first need to set up the **supporting services** (SearXNG and Reader).
+
+[👉 Go to Setup Guide](src/SETUP.md)
+---
 
 ## 📌 Goals
 - Improve **adaptability of RAG** systems by dynamically incorporating new or low-frequency entities.  
