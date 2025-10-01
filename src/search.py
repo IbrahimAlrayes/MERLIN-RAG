@@ -28,12 +28,12 @@ load_dotenv()
 SEARX_HOST = os.getenv("SEARXNG_HOST", "http://localhost:8080").rstrip("/")
 READER_HOST = os.getenv("READER_HOST", "http://localhost:3001").rstrip("/")
 READER_MODE = os.getenv("READER_MODE", "proxy")  # "proxy" or "reader"
-MAX_RESULTS = int(os.getenv("MAX_RESULTS", "5"))
+MAX_RESULTS = int(os.getenv("MAX_RESULTS", "10"))
 MIN_CONTENT_CHARS = int(os.getenv("MIN_CONTENT_CHARS", "400"))
 MIN_SOURCES = int(os.getenv("MIN_SOURCES", "2"))
 LANG = os.getenv("LANG", "auto")
 
-TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "5"))
+TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "7"))
 RETRY_TIMEOUT = int(os.getenv("RETRY_TIMEOUT", "10"))
 RETRY_ON_FAILURE = int(os.getenv("RETRY_ON_FAILURE", "1"))
 
@@ -48,7 +48,7 @@ log = logging.getLogger("merlin-rag.search")
 ##########################
 
 
-def search_and_fetch(query: str, k: int = 5) -> List[Dict[str, Any]]:
+def search_and_fetch(query: str, k: int = MAX_RESULTS) -> List[Dict[str, Any]]:
     """
     Orchestrator:
       searx_search -> dedupe_by_link -> fetch_urls_with_proxy -> normalize_records
