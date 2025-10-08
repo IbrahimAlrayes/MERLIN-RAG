@@ -1,0 +1,1413 @@
+[
+  {
+    "title": "Presiden interim Mesir rangkul Ikhwanul Muslimin",
+    "entity": "Ikhwanul Muslimin",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Ikhwanul Muslimin\" mentioned in the news article \"Presiden interim Mesir rangkul Ikhwanul Muslimin\" is \"Muslim Brotherhood\".",
+    "image": "indonesian_130.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q109725044",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Ikhwanul Muslimin, S.Pd"
+    ]
+  },
+  {
+    "title": "Bolze, bahasa 'campuran' Prancis-Jerman di Swiss, yang diketahui sedikit orang",
+    "entity": "Bolze",
+    "prediction": "Bolze",
+    "image": "indonesian_144.jpg",
+    "target": "Bolze",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q56299997",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Turis telanjang' di Kinabalu dibebaskan",
+    "entity": "Kinabalu",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Kinabalu\" mentioned in the news article \"Turis telanjang' di Kinabalu dibebaskan\" is \"Mount Kinabalu\".",
+    "image": "indonesian_151.jpg",
+    "target": "Kinabalu (federal constituency)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q25246359",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Gunung Merapi: tak ada letusan susulan, hujan abu di Sleman dan DIY, bandara sempat ditutup",
+    "entity": "Sleman",
+    "prediction": "Sleman Regency",
+    "image": "indonesian_222.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q25102769",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Kecamatan Sleman"
+    ]
+  },
+  {
+    "title": "God's Own Country: Film LGBT Brokeback Mountain versi Inggris",
+    "entity": "Gods Own Country",
+    "prediction": "Gods Own Country (film)",
+    "image": "indonesian_242.jpg",
+    "target": "God's Own Country (2014 film)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q18611381",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Koin Prita untuk korban malpraktek",
+    "entity": "Prita",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Prita\" mentioned in the news article \"Koin Prita untuk korban malpraktek\" is \"Prita (doctor)\".",
+    "image": "indonesian_360.jpg",
+    "target": "Prita Mulyasari",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q7245921",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Ali Mochtar Ngabalin: 'Saya sekarang bisa membisiki presiden'",
+    "entity": "Ali Mochtar Ngabalin",
+    "prediction": "Ali Mochtar Ngabalin",
+    "image": "indonesian_611.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q109704787",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Drs. Ali Mochtar Ngabalin, M.Si",
+      "Drs. Ali Mochtar Ngabalin, M.Si."
+    ]
+  },
+  {
+    "title": "Tiga Muslim korban penembakan Chapel Hill dimakamkan",
+    "entity": "penembakan Chapel Hill",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Chapel Hill shooting\".",
+    "image": "indonesian_661.jpg",
+    "target": "2015 Chapel Hill shooting",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q19158877",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Chapel Hill shooting 2015"
+    ]
+  },
+  {
+    "title": "Rudi Rubiandini divonis tujuh tahun penjara",
+    "entity": "Rudi Rubiandini",
+    "prediction": "Rudi Rubiandini",
+    "image": "indonesian_922.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q12508991",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Film terbaru Star Wars cetak rekor penjualan",
+    "entity": "Star Wars",
+    "prediction": "Star Wars",
+    "image": "indonesian_979.jpg",
+    "target": "Star Wars (Indian TV series)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q48728424",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Warga Gunung Botak alami gangguan kesehatan",
+    "entity": "Gunung Botak",
+    "prediction": "Mount Botak",
+    "image": "indonesian_36.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q26731443",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Hong Kong: Veby Mega Indah, jurnalis asal Indonesia, 'buta akibat tembakan polisi'",
+    "entity": "Veby Mega Indah",
+    "prediction": "Veby Mega Indah",
+    "image": "indonesian_73.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q85883384",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Asisten manajer Chelsea Rui Faria diberi sanksi",
+    "entity": "Rui Faria",
+    "prediction": "Rui Faria",
+    "image": "indonesian_88.jpg",
+    "target": "Rui Faria",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q704528",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Australia 'semakin yakin' puing di pulau Reunion berasal dari MH370",
+    "entity": "pulau Reunion",
+    "prediction": "Reunion Island",
+    "image": "indonesian_90.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q25396403",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Kisah Irma Bule, penyanyi dangdut yang meninggal dunia dipatuk ular",
+    "entity": "Irma Bule",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Irma Bule' mentioned in the news article 'Kisah Irma Bule, penyanyi dangdut yang meninggal dunia dipatuk ular' is 'Irma Bule'.",
+    "image": "indonesian_512.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q96102658",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Kudeta militer Myanmar: 'Mantan saya buruk, tapi militer lebih buruk,' kata pendemo milenial dan Gen Z",
+    "entity": "Kudeta militer",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"2021 Myanmar coup d'état\".",
+    "image": "indonesian_536.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10290447",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Cerita 'DiCaprio dan Kalijodo' yang tidak Anda ketahui sebelumnya",
+    "entity": "Kalijodo",
+    "prediction": "Kalijodo",
+    "image": "indonesian_569.jpg",
+    "target": "Kalijodo Park",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q25469310",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Taman Kalijodo",
+      "Kalijodo Park"
+    ]
+  },
+  {
+    "title": "Jonru divonis hukuman penjara 1,5 tahun, terbukti sebarkan kebencian dan permusuhan",
+    "entity": "Jonru",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Jonru\".",
+    "image": "indonesian_729.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q20278436",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Siswa datang telat, orang tua didenda Rp1 juta ",
+    "entity": "Siswa",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Student\".",
+    "image": "indonesian_200.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q112918691",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Ratu tidak hadir di kebaktian di Westminster Abbey",
+    "entity": "Westminster Abbey",
+    "prediction": "Westminster Abbey",
+    "image": "indonesian_212.jpg",
+    "target": "Westminster Abbey (London County Council constituency)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q65045647",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Jamaat-uh-Ahrar mengaku di belakang bom Quetta",
+    "entity": "bom Quetta",
+    "prediction": "Quetta bombing",
+    "image": "indonesian_822.jpg",
+    "target": "August 2016 Quetta attacks",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q26236680",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Eva Carneiro tolak tawaran damai Rp23 miliar dari Chelsea",
+    "entity": "Eva Carneiro",
+    "prediction": "Eva Carneiro",
+    "image": "indonesian_884.jpg",
+    "target": "Eva Carneiro",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q19587156",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "MIT: Kisah Desa Lemban Tongoa yang terusik aksi Mujahidin Indonesia Timur pimpinan Ali Kalora",
+    "entity": "Ali Kalora",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Ali Kalora\".",
+    "image": "indonesian_667.jpg",
+    "target": "Ali Kalora",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q28485059",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Ali Ahmad",
+      "Ali Ambon"
+    ]
+  },
+  {
+    "title": "Gempa Palu: Antara 'hukuman Tuhan' dan penjelasan ilmu pengetahuan",
+    "entity": "Palu",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Palu' mentioned in the news article 'Gempa Palu: Antara 'hukuman Tuhan' dan penjelasan ilmu pengetahuan' is 'Palu'.",
+    "image": "indonesian_697.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q24849683",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Perang Yaman: Pasukan koalisi Arab Saudi gempur kota pelabuhan incar kubu Houthi",
+    "entity": "Houthi",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Houthi\" mentioned in the news article \"Perang Yaman: Pasukan koalisi Arab Saudi gempur kota pelabuhan incar kubu Houthi\" is \"Houthis\".",
+    "image": "indonesian_974.jpg",
+    "target": "Houthi tribe",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q55751464",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Ali Kalora, 'pimpinan tertinggi' kelompok Mujahidin Indonesia Timur, tewas dalam baku tembak",
+    "entity": "Ali Kalora",
+    "prediction": "Ali Kalora",
+    "image": "indonesian_551.jpg",
+    "target": "Ali Kalora",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q28485059",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Ali Ahmad",
+      "Ali Ambon"
+    ]
+  },
+  {
+    "title": "Pidato kemenangan Jokowi di Sunda Kelapa",
+    "entity": "Sunda Kelapa",
+    "prediction": "Sunda Kelapa",
+    "image": "indonesian_758.jpg",
+    "target": "Sunda Kelapa",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1286686",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Petr Cech yakin Arsenal akan juarai Liga Primer musim ini",
+    "entity": "Liga Primer",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Liga Primer\" mentioned in the news article \"Petr Cech yakin Arsenal akan juarai Liga Primer musim ini\" is \"Premier League\".",
+    "image": "indonesian_778.jpg",
+    "target": "Premier League (speedway)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q7240313",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Pemberontak Suriah dituduh Rusia ikut bertanggung jawab di Houla",
+    "entity": "Houla",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Houla' mentioned in the news article 'Pemberontak Suriah dituduh Rusia ikut bertanggung jawab di Houla' is 'Houla massacre'.",
+    "image": "indonesian_798.jpg",
+    "target": "Houla",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1636240",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Stealthing: ‘Saya tak tahu ini perkosaan, sampai itu terjadi pada saya’",
+    "entity": "Stealthing",
+    "prediction": "Stealthing",
+    "image": "indonesian_244.jpg",
+    "target": "Non-consensual condom removal",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29582627",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Teluk Hamelin: Hampir 150 paus yang terdampar mati di Australia",
+    "entity": "Teluk Hamelin",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Teluk Hamelin' mentioned in the news article 'Teluk Hamelin: Hampir 150 paus yang terdampar mati di Australia' is 'Haman's Bay'.",
+    "image": "indonesian_316.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q21891621",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Momen terbesar di Twitter sepanjang 2013",
+    "entity": "Twitter",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Twitter\" mentioned in the news article \"Momen terbesar di Twitter sepanjang 2013\" is \"Twitter\".",
+    "image": "indonesian_641.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q126022120",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Siapa aktor di balik Tabloid Indonesia Barokah? Kubu Prabowo maupun Jokowi mengaku sama-sama dirugikan",
+    "entity": "Jokowi",
+    "prediction": "Joko Widodo",
+    "image": "indonesian_994.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q108892779",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Joko Widodo Sh",
+      "Joko Widodo, Sh"
+    ]
+  },
+  {
+    "title": "Kisah pemuda Sukabumi: Kejar Jokowi bertelanjang dada, kini 'menuju Istana Negara'",
+    "entity": "Jokowi",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Jokowi\" mentioned in the news article \"Kisah pemuda Sukabumi: Kejar Jokowi bertelanjang dada, kini 'menuju Istana Negara'\" is \"Joko Widodo\".",
+    "image": "indonesian_996.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q108892779",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Joko Widodo Sh",
+      "Joko Widodo, Sh"
+    ]
+  },
+  {
+    "title": "Bagaimana penyebaran informasi bencana di Indonesia tanpa Sutopo Purwo Nugroho",
+    "entity": "Sutopo Purwo Nugroho",
+    "prediction": "Sutopo Purwo Nugroho",
+    "image": "indonesian_10.jpg",
+    "target": "Sutopo Purwo Nugroho",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q19742607",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Investor salah beli saham Twitter",
+    "entity": "Twitter",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Twitter\" mentioned in the news article \"Investor salah beli saham Twitter\" is \"Twitter\".",
+    "image": "indonesian_19.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q126022120",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Penyerang London pria berusia 52 tahun, Khalid Masood",
+    "entity": "Khalid Masood",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Khalid Masood\" mentioned in the news article \"Penyerang London pria berusia 52 tahun, Khalid Masood\" is \"Khalid Masood\".",
+    "image": "indonesian_526.jpg",
+    "target": "Khalid Masood",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q29016896",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Adrian Ajao",
+      "Adrian Elms",
+      "Adrian Russell Ajao",
+      "Adrian Russell Elms",
+      "Khalid Choudry"
+    ]
+  },
+  {
+    "title": "Ali Kalora, 'pimpinan tertinggi' kelompok Mujahidin Indonesia Timur, tewas dalam baku tembak",
+    "entity": "Mujahidin Indonesia Timur",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Mujahidin Indonesia Timur\".",
+    "image": "indonesian_551.jpg",
+    "target": "East Indonesia Mujahideen",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q25932091",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "MIT",
+      "East Indonesia Mujahideen",
+      "Mujahideen of Eastern Indonesia",
+      "MIT",
+      "East Indonesia Mujahideen",
+      "Mujahideen of Eastern Indonesia"
+    ]
+  },
+  {
+    "title": "Benitez isyaratkan Mourinho balik ke Chelsea",
+    "entity": "Benitez",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Benitez\" mentioned in the news article \"Benitez isyaratkan Mourinho balik ke Chelsea\" in English is \"Rafael Benítez\".",
+    "image": "indonesian_740.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q20155592",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Rafael Benítez Madrid"
+    ]
+  },
+  {
+    "title": "Sebelum ke RS, peserta BPJS wajib dirujuk dokter ",
+    "entity": "BPJS",
+    "prediction": "BPJS Kesehatan",
+    "image": "indonesian_409.jpg",
+    "target": "BPJS Kesehatan",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q12472745",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Askes",
+      "Asuransi kesehatan indonesia",
+      "Asuransi Kesehatan Indonesia",
+      "PT Askes Indonesia",
+      "PT Asuransi Kesehatan Indonesia"
+    ]
+  },
+  {
+    "title": "Kapal Rainbow Warrior pensiun",
+    "entity": "Rainbow Warrior",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Rainbow Warrior\" mentioned in the news article \"Kapal Rainbow Warrior pensiun\" in English is \"Rainbow Warrior\".",
+    "image": "indonesian_421.jpg",
+    "target": "Rainbow Warrior (1957)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1958707",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "IMO 5300481",
+      "Rainbow Warrior"
+    ]
+  },
+  {
+    "title": "Ahmaud Arbery: Siapa pemuda kulit hitam yang tewas di tangan mantan polisi dan anaknya yang 'mengucapkan cercaan rasial'",
+    "entity": "Ahmaud Arbery",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Ahmaud Arbery\" mentioned in the news article \"Ahmaud Arbery: Siapa pemuda kulit hitam yang tewas di tangan mantan polisi dan anaknya yang 'mengucapkan cercaan rasial'\" is \"Ahmaud Arbery\".",
+    "image": "indonesian_480.jpg",
+    "target": "Ahmaud Arbery",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q93437574",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Ahmaud Marquez Arbery"
+    ]
+  },
+  {
+    "title": "Kepolisian Baltimore AS diselidiki dalam kasus Freddie Gray",
+    "entity": "Freddie Gray",
+    "prediction": "Freddie Gray",
+    "image": "indonesian_2.jpg",
+    "target": "Freddie Gray",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q105595205",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Freddie Gray,  Jr."
+    ]
+  },
+  {
+    "title": "Penunjukan pengganti Ketua DPR: Manuver baru Setya Novanto yang 'tabrak aturan'",
+    "entity": "Setya Novanto",
+    "prediction": "Setya Novanto",
+    "image": "indonesian_149.jpg",
+    "target": "Setya Novanto",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q18421371",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "Drs Setya Novanto",
+      "Drs. Setya Novanto",
+      "Drs. Setya Novanto, Ak.",
+      "Setnov",
+      "Setnov"
+    ]
+  },
+  {
+    "title": "Warga Jepang peringati 70 tahun bom Nagasaki",
+    "entity": "Nagasaki",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Nagasaki\" mentioned in the news article \"Warga Jepang peringati 70 tahun bom Nagasaki\" is \"Nagasaki\".",
+    "image": "indonesian_612.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1696900",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Delio Rossi meminta maaf karena pukul pemain",
+    "entity": "Delio Rossi",
+    "prediction": "Delio Rossi",
+    "image": "indonesian_633.jpg",
+    "target": "Delio Rossi",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q370910",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Kisah pemuda Sukabumi: Kejar Jokowi bertelanjang dada, kini 'menuju Istana Negara'",
+    "entity": "Sukabumi",
+    "prediction": "Sukabumi",
+    "image": "indonesian_996.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q12516735",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Sukabumi",
+      "Suka Bumi",
+      "Kelurahan Sukabumi",
+      "Sukabumi, Mayangan, Probolinggo",
+      "Kelurahan Suka Bumi",
+      "Suka Bumi, Mayangan, Probolinggo"
+    ]
+  },
+  {
+    "title": "Kepolisian Baltimore AS diselidiki dalam kasus Freddie Gray",
+    "entity": "Freddie Gray",
+    "prediction": "Freddie Gray",
+    "image": "indonesian_2.jpg",
+    "target": "Freddie Gray",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q105595205",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Freddie Gray,  Jr."
+    ]
+  },
+  {
+    "title": "Topan Hagibis: PM Jepang perintahkan upaya penyelamatan hingga larut malam",
+    "entity": "Topan Hagibis",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Typhoon Hagibis\".",
+    "image": "indonesian_578.jpg",
+    "target": "Typhoon Hagibis",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q69841946",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Reiwa 1 East Japan Typhoon"
+    ]
+  },
+  {
+    "title": "Perundingan merekrut Zaha ke Manchester United berlanjut",
+    "entity": "Zaha",
+    "prediction": "Wilfried Zaha",
+    "image": "indonesian_587.jpg",
+    "target": "Wilfried Zaha",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q713711",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Bianca Devins: Kisah pembunuhan seorang remaja yang dieksploitasi di media sosial",
+    "entity": "Bianca Devins",
+    "prediction": "Bianca Devins",
+    "image": "indonesian_485.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q84100864",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Topan Michael: 'badai monster' mengancam, Florida diungsikan",
+    "entity": "Topan Michael",
+    "prediction": "Hurricane Michael",
+    "image": "indonesian_491.jpg",
+    "target": "Hurricane Michael",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q57082056",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Hurricane Michael (2018)"
+    ]
+  },
+  {
+    "title": "‘Datang untuk lukai’ Klitschko, Joshua juara kelas berat WBA dan IBF",
+    "entity": "IBF",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"IBF\" mentioned in the news article \"‘Datang untuk lukai’ Klitschko, Joshua juara kelas berat WBA dan IBF\" is \"International Boxing Federation\".",
+    "image": "indonesian_987.jpg",
+    "target": "International Boxing Federation",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q742944",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "IBF",
+      "The International Boxing Federation"
+    ]
+  },
+  {
+    "title": "Hodgson pertanyakan pertandingan NFL di Wembley",
+    "entity": "Hodgson",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Hodgson\" mentioned in the news article \"Hodgson pertanyakan pertandingan NFL di Wembley\" in English is \"Roy Hodgson\".",
+    "image": "indonesian_107.jpg",
+    "target": "Roy Hodgson",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q203781",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "Joget Menteri Susi di geladak KM Kelud menjadi viral",
+    "entity": "Menteri Susi",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Susi Pudjiastuti\".",
+    "image": "indonesian_941.jpg",
+    "target": "Susi Pudjiastuti",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q17411488",
+    "wikidata_incoming_links": 4,
+    "aliases": []
+  },
+  {
+    "title": "‘Datang untuk lukai’ Klitschko, Joshua juara kelas berat WBA dan IBF",
+    "entity": "WBA",
+    "prediction": "World Boxing Association",
+    "image": "indonesian_987.jpg",
+    "target": "World Boxing Association",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q725676",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "WBA",
+      "The World Boxing Association"
+    ]
+  },
+  {
+    "title": "Apakah sebaiknya pemda bekerja sama dengan FPI?",
+    "entity": "FPI",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"FPI\" mentioned in the news article \"Apakah sebaiknya pemda bekerja sama dengan FPI?\" is \"Front Pembela Islam\".",
+    "image": "indonesian_993.jpg",
+    "target": "Islamic Defenders Front",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1878607",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "FPI",
+      "Front Pembela Islam",
+      "الجبهة الدفاعية الإسلامية"
+    ]
+  },
+  {
+    "title": "Guru yoga Bikram Choudhury didenda karena pelecehan seksual",
+    "entity": "Bikram Choudhury",
+    "prediction": "Bikram Choudhury",
+    "image": "indonesian_741.jpg",
+    "target": "Bikram Choudhury",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q860127",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "Aksi 112 Istiqlal: massa bawa spanduk ‘wajib pilih pemimpin Muslim’",
+    "entity": "Istiqlal",
+    "prediction": "Istiqlal Mosque",
+    "image": "indonesian_305.jpg",
+    "target": "Istiqlal Mosque, Jakarta",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q475379",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Istiqlal",
+      "Istiqlal"
+    ]
+  },
+  {
+    "title": "Buku kontroversial soal Trump, Fire and Fury akan jadi serial televisi",
+    "entity": "Fire and Fury",
+    "prediction": "Fire and Fury: Inside the Trump White House",
+    "image": "indonesian_396.jpg",
+    "target": "Fire and Fury",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q47053801",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "Fire & Fury",
+      "Fire and Fury",
+      "Fire & Fury",
+      "Fire and Fury: Inside the Trump White House"
+    ]
+  },
+  {
+    "title": "Pertanyaan Anda soal vonis Ahok, dari peluang bebas hingga penanganan kasus Rizieq",
+    "entity": "Rizieq",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Rizieq Shihab\".",
+    "image": "indonesian_916.jpg",
+    "target": "Rizieq Shihab",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q11213484",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Muhammad Rizieq bin Hussein Shihab"
+    ]
+  },
+  {
+    "title": "#TrenSosial: Panjat pinang dan balap karung 'warisan kolonial yang tidak mendidik'",
+    "entity": "balap karung",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Balap karung\".",
+    "image": "indonesian_949.jpg",
+    "target": "Sack race",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1142365",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Balapan karung",
+      "sack racing"
+    ]
+  },
+  {
+    "title": "Sujud sukur Anies, Rizieq, dan Prabowo di Masjid Istiqlal",
+    "entity": "Masjid Istiqlal",
+    "prediction": "Istiqlal Mosque",
+    "image": "indonesian_17.jpg",
+    "target": "Istiqlal Mosque, Jakarta",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q475379",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Istiqlal",
+      "Istiqlal"
+    ]
+  },
+  {
+    "title": "Sujud sukur Anies, Rizieq, dan Prabowo di Masjid Istiqlal",
+    "entity": "Rizieq",
+    "prediction": "Rizieq Shihab",
+    "image": "indonesian_17.jpg",
+    "target": "Rizieq Shihab",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q11213484",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Muhammad Rizieq bin Hussein Shihab"
+    ]
+  },
+  {
+    "title": "Ngaso 'selow' bersama Payung Teduh",
+    "entity": "Payung Teduh",
+    "prediction": "Payung Teduh",
+    "image": "indonesian_178.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q20426702",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "Jika Anda Jokowi, bagaimana mengatasi konflik KPK-Polri?",
+    "entity": "KPK",
+    "prediction": "Corruption Eradication Commission (Indonesia)",
+    "image": "indonesian_817.jpg",
+    "target": "Corruption Eradication Commission",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3273955",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "KPK",
+      "KPK RI"
+    ]
+  },
+  {
+    "title": "Apakah DPR periode baru bakal berbalik mendukung penerbitan Perppu KPK?",
+    "entity": "KPK",
+    "prediction": "Corruption Eradication Commission (Indonesia)",
+    "image": "indonesian_845.jpg",
+    "target": "Corruption Eradication Commission",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3273955",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "KPK",
+      "KPK RI"
+    ]
+  },
+  {
+    "title": "Langit spektakuler Desember: Hujan meteor Geminid, Jupiter dan Saturnus menjadi satu...serta gerhana matahri total",
+    "entity": "Hujan meteor Geminid",
+    "prediction": "Geminid meteor shower",
+    "image": "indonesian_870.jpg",
+    "target": "Geminids",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1237067",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "Badai Matthew di Haiti:Jumlah korban tewas capai 800 jiwa",
+    "entity": "Badai Matthew",
+    "prediction": "Hurricane Matthew",
+    "image": "indonesian_886.jpg",
+    "target": "Hurricane Matthew",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q27058656",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "Matthew"
+    ]
+  },
+  {
+    "title": "Benitez gantikan McClaren di Newcastle United",
+    "entity": "McClaren",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"McClaren\" mentioned in the news article \"Benitez gantikan McClaren di Newcastle United\" is \"Steve McLaren\".",
+    "image": "indonesian_895.jpg",
+    "target": "Steve McClaren",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q311007",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Stephen McClaren"
+    ]
+  },
+  {
+    "title": "Seorang pemancing selamat setelah diseret ikan marlin selama enam jam",
+    "entity": "ikan marlin",
+    "prediction": "Marlin",
+    "image": "indonesian_662.jpg",
+    "target": "Marlin",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q123478185",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "marlins"
+    ]
+  },
+  {
+    "title": "David Moyes, pelatih baru Real Sociedad",
+    "entity": "David Moyes",
+    "prediction": "David Moyes",
+    "image": "indonesian_905.jpg",
+    "target": "David Moyes",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q297252",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "David William Moyes",
+      "David William Moyes"
+    ]
+  },
+  {
+    "title": "BW diperiksa, Polri 'sasar' seluruh komisioner KPK",
+    "entity": "KPK",
+    "prediction": "Corruption Eradication Commission (Indonesia)",
+    "image": "indonesian_933.jpg",
+    "target": "Corruption Eradication Commission",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3273955",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "KPK",
+      "KPK RI"
+    ]
+  },
+  {
+    "title": "Berapa pendapatan Moyes selama di MU?",
+    "entity": "Moyes",
+    "prediction": "David Moyes",
+    "image": "indonesian_56.jpg",
+    "target": "David Moyes",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q297252",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "David William Moyes",
+      "David William Moyes"
+    ]
+  },
+  {
+    "title": "Pemeluk Kristen dibebaskan dari kasus penistaan ​​agama: Asia Bibi tinggalkan Pakistan?",
+    "entity": "Asia Bibi",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Asia Bibi' mentioned in the news article 'Pemeluk Kristen dibebaskan dari kasus penistaan ​​agama: Asia Bibi tinggalkan Pakistan?' is 'Asia Bibi'.",
+    "image": "indonesian_501.jpg",
+    "target": "Asia Bibi",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q58198703",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Aasiya Noreen",
+      "Āsia Bibī",
+      "Āsiyaah Naurīn"
+    ]
+  },
+  {
+    "title": "CCTV memperlihatkan pelaku serangan bom Manchester sebelum ledakan",
+    "entity": "CCTV",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'CCTV' mentioned in the news article 'CCTV memperlihatkan pelaku serangan bom Manchester sebelum ledakan' is 'Closed-circuit television'.",
+    "image": "indonesian_523.jpg",
+    "target": "Closed-circuit television camera",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q5135310",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "CCTV camera",
+      "security camera",
+      "surveillance camera"
+    ]
+  },
+  {
+    "title": "Lawan Chelsea, Rodgers tak punya beban",
+    "entity": "Rodgers",
+    "prediction": "Brendan Rodgers",
+    "image": "indonesian_585.jpg",
+    "target": "Brendan Rodgers",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q310623",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "Gui Minhai muncul di stasiun TV pemerintah Cina",
+    "entity": "Gui Minhai",
+    "prediction": "Gui Minhai",
+    "image": "indonesian_89.jpg",
+    "target": "Gui Minhai",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q22099950",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "Michael Gui",
+      "Ah Hai"
+    ]
+  },
+  {
+    "title": "HUT RI: Pahlawan atau pengkhianat, apa peran Sultan Hamid II dan Amir Sjarifuddin dalam sejarah Indonesia?",
+    "entity": "Amir Sjarifuddin",
+    "prediction": "Amir Sjarifuddin",
+    "image": "indonesian_160.jpg",
+    "target": "Amir Sjarifuddin",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1810083",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "Amir Sjarifuddin Harahap"
+    ]
+  },
+  {
+    "title": "Wimbledon larang tongsis",
+    "entity": "tongsis",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"tongsis\" mentioned in the news article \"Wimbledon larang tongsis\" is \"Selfie stick\".",
+    "image": "indonesian_574.jpg",
+    "target": "Selfie stick",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q18387942",
+    "wikidata_incoming_links": 9,
+    "aliases": []
+  },
+  {
+    "title": "Cristiano Ronaldo ke Juventus: 'Real luluhkan hatiku, tapi saatnya buka lembaran baru'",
+    "entity": "Juventus",
+    "prediction": "Juventus FC",
+    "image": "indonesian_710.jpg",
+    "target": "Juventus F.C. (Belize)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q528151",
+    "wikidata_incoming_links": 9,
+    "aliases": []
+  },
+  {
+    "title": "Israel-Gaza: Israel mendapat gelontoran dana setidaknya Rp55 triliun per tahun dari Amerika Serikat, termasuk untuk sistem Kubah Besi",
+    "entity": "Kubah Besi",
+    "prediction": "Iron Dome",
+    "image": "indonesian_400.jpg",
+    "target": "Iron Dome",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q81231",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "Kippat Barzel"
+    ]
+  },
+  {
+    "title": "Tasya Kamila hidupkan tembang anak-anak",
+    "entity": "Tasya Kamila",
+    "prediction": "Tasya Kamila",
+    "image": "indonesian_219.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q4273019",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "shafa tasya kamila",
+      "shafa tasya kamila",
+      "tasya kamila"
+    ]
+  },
+  {
+    "title": "Petinggi Polri dan TNI maju di Pilkada 2018, Indonesia kembali ke Orde Baru?",
+    "entity": "Orde Baru",
+    "prediction": "New Order",
+    "image": "indonesian_392.jpg",
+    "target": "New Order (Indonesia)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q497163",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "Indonesia: Era Orde Baru",
+      "Orde baru",
+      "Rezim Soeharto",
+      "Orba",
+      "Orde Baru (Indonesia)",
+      "1966–1998 period of rule by Suharto",
+      "Indonesian New Order",
+      "New Order era"
+    ]
+  },
+  {
+    "title": "Pawlenty mundur dari bursa bakal calon presiden",
+    "entity": "Pawlenty",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Pawlenty\" mentioned in the news article \"Pawlenty mundur dari bursa bakal calon presiden\" is \"Tim Pawlenty\".",
+    "image": "indonesian_807.jpg",
+    "target": "Tim Pawlenty",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q160181",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "Timothy James Pawlenty",
+      "Timothy James \"Tim\" Pawlenty",
+      "Timothy James Pawlenty"
+    ]
+  },
+  {
+    "title": "Sinyal 'ping' diduga dari QZ8501 terdeteksi",
+    "entity": "QZ8501",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"QZ8501\" mentioned in the news article \"Sinyal 'ping' diduga dari QZ8501 terdeteksi\" is \"AirAsia Flight 8501\".",
+    "image": "indonesian_815.jpg",
+    "target": "Indonesia AirAsia Flight 8501",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q18683047",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "AirAsia crash of 2014",
+      "Airbus A320-216 crash of 2014",
+      "AWQ8501",
+      "Flight 8501",
+      "Indonesia AirAsia Flight 8501",
+      "Java Sea plane crash of 2014",
+      "QZ8501",
+      "WAGON AIR 8501"
+    ]
+  },
+  {
+    "title": "Benitez gantikan McClaren di Newcastle United",
+    "entity": "Benitez",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Benitez\" mentioned in the news article \"Benitez gantikan McClaren di Newcastle United\" is \"Rafael Benítez\".",
+    "image": "indonesian_895.jpg",
+    "target": "Rafael Benítez",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q144048",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "Rafael Benitez",
+      "Rafael Benítez",
+      "Rafa Benitez",
+      "Rafael Benitez",
+      "Rafael Benitez Maudes"
+    ]
+  },
+  {
+    "title": "Yohan Blake kalahkan Asafa Powell di Zurich",
+    "entity": "Asafa Powell",
+    "prediction": "Asafa Powell",
+    "image": "indonesian_540.jpg",
+    "target": "Asafa Powell",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q182747",
+    "wikidata_incoming_links": 10,
+    "aliases": []
+  },
+  {
+    "title": "Manuel Noriega menuntut \"Call of Duty\"",
+    "entity": "Manuel Noriega",
+    "prediction": "Manuel Noriega",
+    "image": "indonesian_623.jpg",
+    "target": "Manuel Noriega",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q192667",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "Manuel Antonio Noriega Moreno",
+      "Manuel Antonio Noriega Moreno"
+    ]
+  },
+  {
+    "title": "Bandara Bali dibuka sesudah ditutup akibat letusan Gunung Agung",
+    "entity": "Gunung Agung",
+    "prediction": "Mount Agung",
+    "image": "indonesian_134.jpg",
+    "target": "Mount Agung",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q158470",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "Mt. Agung",
+      "Gunung Agung"
+    ]
+  },
+  {
+    "title": "Kapten Costa Concordia meminta maaf",
+    "entity": "Costa Concordia",
+    "prediction": "Costa Concordia",
+    "image": "indonesian_310.jpg",
+    "target": "Costa Concordia",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q190542",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "MS Costa Concordia"
+    ]
+  },
+  {
+    "title": "Maven milik NAS akan masuk orbit Mars",
+    "entity": "Maven",
+    "prediction": "MAVEN (spacecraft)",
+    "image": "indonesian_860.jpg",
+    "target": "MAVEN",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q327075",
+    "wikidata_incoming_links": 12,
+    "aliases": [
+      "Mars Atmosphere and Volatile Evolution"
+    ]
+  },
+  {
+    "title": "Arsenal salip City, Wenger puji Wilshere ",
+    "entity": "Wenger",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Wenger\" mentioned in the news article \"Arsenal salip City, Wenger puji Wilshere \" is \"Arsène Wenger\".",
+    "image": "indonesian_615.jpg",
+    "target": "Arsène Wenger",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q47576",
+    "wikidata_incoming_links": 12,
+    "aliases": [
+      "Arsene Wenger",
+      "Arsene Wenger",
+      "Arsene Charles Ernest Wenger",
+      "Arsène Charles Ernest Wenger"
+    ]
+  },
+  {
+    "title": "Turis yang datang berfoto dan warga yang bertahan ketika Gunung Agung erupsi",
+    "entity": "Gunung Agung",
+    "prediction": "Mount Agung",
+    "image": "indonesian_943.jpg",
+    "target": "Mount Agung",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q158470",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "Mt. Agung",
+      "Gunung Agung"
+    ]
+  },
+  {
+    "title": "Minta restu, Prabowo-Hatta temui SBY ",
+    "entity": "Hatta",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Hatta\" mentioned in the news article \"Minta restu, Prabowo-Hatta temui SBY \" is \"Hatta Rajasa\".",
+    "image": "indonesian_519.jpg",
+    "target": "Hatta Rajasa",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q4201732",
+    "wikidata_incoming_links": 13,
+    "aliases": [
+      "Daftar tokoh Melayu-Indonesia",
+      "Hattarajasa",
+      "Ir. M. Hatta Rajasa",
+      "Muhammad Hatta Rajasa",
+      "Ir. M. Hatta Rajasa",
+      "Muhammad Hatta Rajasa"
+    ]
+  },
+  {
+    "title": "Imbas pelarangan di AS, TikTok ajukan gugatan terhadap pemerintahan Presiden Donald Trump ke pengadilan",
+    "entity": "TikTok",
+    "prediction": "TikTok",
+    "image": "indonesian_773.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q121133407",
+    "wikidata_incoming_links": 11,
+    "aliases": []
+  },
+  {
+    "title": "Talangan Siprus: Eurogroup capai kesepakatan",
+    "entity": "Eurogroup",
+    "prediction": "Eurogroup",
+    "image": "indonesian_136.jpg",
+    "target": "Eurogroup",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q149964",
+    "wikidata_incoming_links": 13,
+    "aliases": []
+  },
+  {
+    "title": "Brunei mulai terapkan hukuman rajam LGBT hingga tewas, kaum gay merasa 'takut'",
+    "entity": "gay",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"LGBT rights\".",
+    "image": "indonesian_595.jpg",
+    "target": "Gay man",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q12893931",
+    "wikidata_incoming_links": 14,
+    "aliases": [
+      "gay",
+      "Turian",
+      "floric",
+      "veldian",
+      "Vincian",
+      "gay erotica",
+      "gay eroticism",
+      "cinthean",
+      "turian",
+      "vincian"
+    ]
+  },
+  {
+    "title": "Kapolri bertemu MUI: kasus hukum Ahok tak ada kaitan dengan isu Sara",
+    "entity": "MUI",
+    "prediction": "Indonesian Ulema Council",
+    "image": "indonesian_706.jpg",
+    "target": "Indonesian Ulema Council",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6026215",
+    "wikidata_incoming_links": 13,
+    "aliases": [
+      "MUI",
+      "Majelis ulama indonesia",
+      "MUI",
+      "Indonesian Ulema Council"
+    ]
+  },
+  {
+    "title": "Tentara Singapura dimanja pembantu?",
+    "entity": "pembantu",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"pembantu\" mentioned in the news article \"Tentara Singapura dimanja pembantu?\" is \"Household worker\".",
+    "image": "indonesian_211.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10631611",
+    "wikidata_incoming_links": 14,
+    "aliases": [
+      "farm maid",
+      "farmmaid"
+    ]
+  }
+]

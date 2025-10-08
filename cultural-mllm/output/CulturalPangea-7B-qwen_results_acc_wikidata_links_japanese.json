@@ -1,0 +1,1545 @@
+[
+  {
+    "title": "「昭和天皇独白録」原本が2500万円で落札　ニューヨーク競売で",
+    "entity": "昭和天皇独白録",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Shōwa Monogatari\".",
+    "image": "japanese_432.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q17216149",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "トランプ米大統領、銃改造部品「バンプストック」の禁止を指示",
+    "entity": "バンプストック",
+    "prediction": "Bump stock",
+    "image": "japanese_467.jpg",
+    "target": "Bump stock",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q4997308",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "bump fire stocks",
+      "bump fire",
+      "slidefire stock"
+    ]
+  },
+  {
+    "title": "【東京五輪】 競泳の大橋が2個目の金メダル、本多も銀　英男子がリレーで優勝",
+    "entity": "本多",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Mio Narita\".",
+    "image": "japanese_635.jpg",
+    "target": "Tomoru Honda",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q107675001",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "ほんだ ともる",
+      "Honda Tomoru"
+    ]
+  },
+  {
+    "title": "河井法相が辞任　妻の案里議員に公職選挙法違反の疑い",
+    "entity": "案里議員",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Municipal councilor\".",
+    "image": "japanese_648.jpg",
+    "target": "Anri Kawai",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q65557037",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "河井あんり"
+    ]
+  },
+  {
+    "title": "なぜここに？　日本の議員会館に大麻の植生",
+    "entity": "議員会館",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Nippon Budokan\".",
+    "image": "japanese_661.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11632455",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "ポルトガル山火事で61人死亡　3日間の服喪",
+    "entity": "ポルトガル山火事",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"2017 Portugal wildfires\".",
+    "image": "japanese_559.jpg",
+    "target": "June 2017 Portugal wildfires",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q30327722",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "2017 Portugal wildfires",
+      "June 2017 Portugal wildfires"
+    ]
+  },
+  {
+    "title": "韓国人のいないKポップグループ、EXP Editionが議論の的に",
+    "entity": "EXP Edition",
+    "prediction": "EXP Edition",
+    "image": "japanese_743.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29614909",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "新型ウイルス対策支援でスター歌手が自宅から配信、「One World: Together at Home」",
+    "entity": "One World: Together at Home",
+    "prediction": "One World: Together at Home",
+    "image": "japanese_914.jpg",
+    "target": "Together at Home",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q90954988",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "エベレストの「ヒラリーステップ」が崩壊　頂上近くの難所",
+    "entity": "ヒラリーステップ",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Hillary Step\".",
+    "image": "japanese_919.jpg",
+    "target": "Hillary Step",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q15114831",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "【写真で見る】北朝鮮のアリラン祭、世界最大のプロパガンダショー",
+    "entity": "アリラン祭",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Arirang Festival\".",
+    "image": "japanese_928.jpg",
+    "target": "Arirang Mass Games",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q602771",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "サイクロン「ギータ」、ニュージーランド南部に暴風雨となって到達",
+    "entity": "サイクロン「ギータ」",
+    "prediction": "Cyclone Gita",
+    "image": "japanese_135.jpg",
+    "target": "Cyclone Gita",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q48611519",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "北朝鮮、金勇進副首相を処刑＝韓国政府",
+    "entity": "金勇進",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Kim Yong-hyun\".",
+    "image": "japanese_278.jpg",
+    "target": "Kim Yong-jin (politician)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q16177115",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "キム・ヨンジン",
+      "Kim Yong Jin",
+      "Kim Yongjin"
+    ]
+  },
+  {
+    "title": "独政府、ブルガリア人記者殺害の容疑者を強制送還",
+    "entity": "ブルガリア人記者",
+    "prediction": "Bulgarian journalist",
+    "image": "japanese_602.jpg",
+    "target": "Victoria Marinova",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q57076990",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "ビクトリア・マリノバ",
+      "Viktoria Marinova"
+    ]
+  },
+  {
+    "title": "東京五輪、「観客数を絞って」開催も　武藤事務総長インタビュー",
+    "entity": "武藤",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Yoshiyuki Miyake\".",
+    "image": "japanese_525.jpg",
+    "target": "Toshirō Mutō",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2445302",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Toshiro Muto",
+      "Toshirou Mutou"
+    ]
+  },
+  {
+    "title": "【元ロシア・スパイ】ユリアさんが意識回復＝病院",
+    "entity": "ユリア",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Yulia Skripal\".",
+    "image": "japanese_940.jpg",
+    "target": "Yulia Skripal",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q50559234",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "中国の台山原発で「動作問題」　放射性物質漏れか",
+    "entity": "台山原発",
+    "prediction": "Taishan Nuclear Power Plant",
+    "image": "japanese_989.jpg",
+    "target": "Taishan Nuclear Power Plant",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1519910",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "ウォール街「雄牛」作家、「恐れ知れずの少女」撤去求める",
+    "entity": "恐れ知れずの少女",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"恐れ知れずの少女\" mentioned in the news article \"ウォール街「雄牛」作家、「恐れ知れずの少女」撤去求める\" is \"Fearless Girl\".",
+    "image": "japanese_827.jpg",
+    "target": "Fearless Girl",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q28916452",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "【分析】　南北共同連絡事務所の破壊、北朝鮮の狙いとは",
+    "entity": "南北共同連絡事務所",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Inter-Korean Liaison Office\".",
+    "image": "japanese_842.jpg",
+    "target": "Inter-Korean Liaison Office",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q16095113",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "同性婚を認めないのは「違憲」　札幌地裁が初の判断",
+    "entity": "札幌地裁",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Hokkaido District Court\".",
+    "image": "japanese_722.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11521181",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "札幌地家裁",
+      "札幌地方・家庭裁判所",
+      "札幌地方裁判所室蘭支部",
+      "札幌地方裁判所小樽支部",
+      "札幌地方裁判所岩内支部",
+      "札幌地方裁判所岩見沢支部",
+      "札幌地方裁判所浦河支部",
+      "札幌地方裁判所滝川支部",
+      "札幌地方裁判所苫小牧支部",
+      "札幌地裁",
+      "札幌地裁室蘭支部",
+      "札幌地裁小樽支部",
+      "札幌地裁岩内支部",
+      "札幌地裁岩見沢支部",
+      "札幌地裁浦河支部",
+      "札幌地裁滝川支部",
+      "札幌地裁苫小牧支部"
+    ]
+  },
+  {
+    "title": "米警官に7発撃たれた黒人男性、別件の審理で病院から無罪主張",
+    "entity": "黒人男性",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Black Americans\".",
+    "image": "japanese_162.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q98636162",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Jacob S. Blake"
+    ]
+  },
+  {
+    "title": "サッカーで「欧州スーパーリーグ」創設、英強豪含む12クラブが合意　FIFAなどは反対",
+    "entity": "欧州スーパーリーグ",
+    "prediction": "Super League",
+    "image": "japanese_186.jpg",
+    "target": "European Super League",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q106548888",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "European Super League Company, S.L."
+    ]
+  },
+  {
+    "title": "イスラエル軍、シリアの「ホワイトヘルメッツ」422人を救出",
+    "entity": "ホワイトヘルメッツ",
+    "prediction": "White Helmets",
+    "image": "japanese_834.jpg",
+    "target": "White Helmets (Syrian civil war)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q22909229",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "SCD",
+      "Syria Civil Defence"
+    ]
+  },
+  {
+    "title": "ミャンマー総選挙、アウンサンスーチー氏率いる与党が過半数　公平性に疑問も",
+    "entity": "ミャンマー総選挙",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"ミャンマー総選挙\" mentioned in the news article \"ミャンマー総選挙、アウンサンスーチー氏率いる与党が過半数　公平性に疑問も\" is \"Myanmar general election\".",
+    "image": "japanese_670.jpg",
+    "target": "2020 Myanmar general election",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q84080272",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "2020 Myanmar general election"
+    ]
+  },
+  {
+    "title": "中国、火星探査車「祝融」の映像を公開",
+    "entity": "祝融",
+    "prediction": "Zhurong rover",
+    "image": "japanese_59.jpg",
+    "target": "Zhurong (rover)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q106614244",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Zhu Rong (Mars Rover)",
+      "Zhurong (rover)",
+      "Zhurong rover"
+    ]
+  },
+  {
+    "title": "女子プロレスラーの木村花選手、22歳で死去　SNSで中傷されていたと示唆",
+    "entity": "木村花",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Hana Kimura\".",
+    "image": "japanese_96.jpg",
+    "target": "Hana Kimura",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q55757694",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "Dangerous Flower"
+    ]
+  },
+  {
+    "title": "切り刻まれたバンクシー作品「少女と風船」、落札女性が所持続けると表明",
+    "entity": "少女と風船",
+    "prediction": "Girl with Balloon",
+    "image": "japanese_816.jpg",
+    "target": "Girl with Balloon",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q22000063",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Girl with Balloon",
+      "The Girl with the Balloon"
+    ]
+  },
+  {
+    "title": "【東京五輪】 卓球女子団体、日本は銀　空手形の清水も銀",
+    "entity": "清水",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Misaki Matsutomo\".",
+    "image": "japanese_623.jpg",
+    "target": "Kiyou Shimizu",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q18684623",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "ロシア陸連を資格停止に　反ドーピング機関が勧告",
+    "entity": "ロシア陸連",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Russian Paralympic Committee\".",
+    "image": "japanese_54.jpg",
+    "target": "Russian Athletics Federation",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3092150",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "全ロシア陸上連盟",
+      "ARAF",
+      "RusAF"
+    ]
+  },
+  {
+    "title": "南ア大統領が英連邦サミットを切り上げ　暴動受け",
+    "entity": "英連邦サミット",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Commonwealth Summit\".",
+    "image": "japanese_62.jpg",
+    "target": "Commonwealth Heads of Government Meeting",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3458201",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "コモンウェルス首脳会議",
+      "CHOGM"
+    ]
+  },
+  {
+    "title": "お姫様だって怯えることも……「アナ雪」ミュージカル主演俳優が舞台欠席",
+    "entity": "ミュージカル主演俳優",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Frozen (musical)\".",
+    "image": "japanese_585.jpg",
+    "target": "Patti Murin",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q51337654",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "日本とEUがEPAに署名、米保護主義に対抗",
+    "entity": "EPA",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"EPA\" mentioned in the news article \"日本とEUがEPAに署名、米保護主義に対抗\" is \"Economic Partnership Agreement\".",
+    "image": "japanese_744.jpg",
+    "target": "Economic Partnership Agreement (Japan-EU)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q30749427",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "EPA",
+      "Economic Partnership Agreement",
+      "JEFTA"
+    ]
+  },
+  {
+    "title": "ロンドン北部カムデン・ロック・マーケットで火事　人気観光地",
+    "entity": "カムデン・ロック・マーケット",
+    "prediction": "Camden Market",
+    "image": "japanese_910.jpg",
+    "target": "Camden Market",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1028420",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Camden Lock",
+      "Camden Lock Market",
+      "Camden markets"
+    ]
+  },
+  {
+    "title": "豪の州首相、感染源のクルーズ船「対応にミス」謝罪　乗客検査せず下船",
+    "entity": "クルーズ船",
+    "prediction": "Cruise ship",
+    "image": "japanese_489.jpg",
+    "target": "Ruby Princess",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1626933",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "IMO 9378462"
+    ]
+  },
+  {
+    "title": "日本のスマホゲーム「旅かえる」、中国で大流行",
+    "entity": "旅かえる",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Traveling Frog (game)\".",
+    "image": "japanese_124.jpg",
+    "target": "Travel Frog",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q47491141",
+    "wikidata_incoming_links": 4,
+    "aliases": []
+  },
+  {
+    "title": "欧州を襲った豪雨、人為的な温暖化で発生率が上昇＝国際気象団体",
+    "entity": "国際気象団体",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"International Meteorological Organization\".",
+    "image": "japanese_204.jpg",
+    "target": "World Weather Attribution",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q66443472",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "世界気候解析",
+      "World Weather Attribution Initiative"
+    ]
+  },
+  {
+    "title": "ワクチン配分のCOVAX、ガーナに最初の便が到着",
+    "entity": "COVAX",
+    "prediction": "COVAX",
+    "image": "japanese_221.jpg",
+    "target": "COVAX",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q99360983",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "COVAXイニシアティヴ",
+      "COVAXファシリティ",
+      "コヴァックス",
+      "コバックス",
+      "COVID-19 Vaccines Global Access",
+      "COVAX Facility",
+      "COVAX Global Vaccines Facility",
+      "COVAX initiative",
+      "COVAX programma",
+      "Covid-19 vaccine allocation plan"
+    ]
+  },
+  {
+    "title": "ビンラディン息子のハムザ容疑者、死亡か　米メディアが報道",
+    "entity": "ハムザ",
+    "prediction": "Hamza bin Laden",
+    "image": "japanese_836.jpg",
+    "target": "Hamza bin Laden",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3126626",
+    "wikidata_incoming_links": 6,
+    "aliases": []
+  },
+  {
+    "title": "日産、次期エクストレイルの英生産を撤回　九州工場に切り替え",
+    "entity": "エクストレイル",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Nissan X-Trail\".",
+    "image": "japanese_425.jpg",
+    "target": "Nissan X-Trail",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1135638",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "X-TRAIL",
+      "X-トレイル",
+      "エクストレイル"
+    ]
+  },
+  {
+    "title": "台湾からミナミシロサイが到着、東武動物公園でお見合いへ",
+    "entity": "東武動物公園",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Ueno Zoo\".",
+    "image": "japanese_495.jpg",
+    "target": "Tobu Zoo",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11527526",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "ハイブリッド・レジャーランド東武動物公園",
+      "東武レジャー企画",
+      "Hybrid Leisure Land Tobu Zoo"
+    ]
+  },
+  {
+    "title": "米政権は「無能」、対イラン政策は「支離滅裂」　駐米英国大使の報告リーク",
+    "entity": "駐米英国大使",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"United Kingdom Ambassador to the United States\".",
+    "image": "japanese_150.jpg",
+    "target": "Kim Darroch",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q6408545",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Lord Darroch",
+      "Nigel Kim Darroch",
+      "Sir Nigel Kim Darroch"
+    ]
+  },
+  {
+    "title": "カナダの裁判所、ファーウェイ副会長の保釈決定　保釈金は約8.5億円",
+    "entity": "ファーウェイ副会長",
+    "prediction": "Meng Wanzhou",
+    "image": "japanese_314.jpg",
+    "target": "Meng Wanzhou",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q59485866",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "メン・ワンツォウ",
+      "もう ばんしゅう",
+      "Cathy Meng",
+      "Meng Wan-chou",
+      "Sabrina Meng",
+      "Wanzhou Meng"
+    ]
+  },
+  {
+    "title": "【東京五輪】 体操、橋本が鉄棒で2個目の金　バイルスは復帰し平均台で銅",
+    "entity": "橋本",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Shinnosuke Oka\".",
+    "image": "japanese_811.jpg",
+    "target": "Daiki Hashimoto",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q76760760",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "はしもと だいき",
+      "Hashimoto Daiki"
+    ]
+  },
+  {
+    "title": "メキシコ地震　死者90人に",
+    "entity": "メキシコ地震",
+    "prediction": "2017 Central Mexico earthquake",
+    "image": "japanese_565.jpg",
+    "target": "2017 Chiapas earthquake",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q38982786",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Chiapas earthquake"
+    ]
+  },
+  {
+    "title": "北朝鮮、米朝首脳会談の中止を警告　一方的な核放棄要求に反発",
+    "entity": "米朝首脳会談",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"North Korea–United States summits\".",
+    "image": "japanese_582.jpg",
+    "target": "2018 North Korea–United States Singapore Summit",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q50396434",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "DPRK–USA Singapore Summit",
+      "North Korea–United States summit",
+      "Singapore summit",
+      "Trump–Kim meeting",
+      "US DPRK Summit"
+    ]
+  },
+  {
+    "title": "米朝首脳会談中止　米外交の何が明らかになったのか",
+    "entity": "米朝首脳会談",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"North Korea–United States summits\".",
+    "image": "japanese_737.jpg",
+    "target": "2018 North Korea–United States Singapore Summit",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q50396434",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "DPRK–USA Singapore Summit",
+      "North Korea–United States summit",
+      "Singapore summit",
+      "Trump–Kim meeting",
+      "US DPRK Summit"
+    ]
+  },
+  {
+    "title": "エクアドル地震、死者272人に",
+    "entity": "エクアドル地震",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"2016 Ecuador earthquake\".",
+    "image": "japanese_962.jpg",
+    "target": "2016 Ecuador earthquake",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q23835355",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "日本出身横綱が消滅・・・稀勢の里が現役引退を表明",
+    "entity": "稀勢の里",
+    "prediction": "Kaihō Ryū",
+    "image": "japanese_172.jpg",
+    "target": "Kisenosato Yutaka",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2004329",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "稀勢の里"
+    ]
+  },
+  {
+    "title": "【英EU離脱】閣内「分裂」の文書漏洩　英官邸否定",
+    "entity": "英官邸",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"10 Downing Street\".",
+    "image": "japanese_294.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q96758600",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "ダウニング街10番地",
+      "ダウニング街",
+      "10番地",
+      "イギリス首相官邸",
+      "英国首相官邸",
+      "ナンバー10",
+      "Downing Street",
+      "10 Downing Street",
+      "Number 10"
+    ]
+  },
+  {
+    "title": "河井法相が辞任　妻の案里議員に公職選挙法違反の疑い",
+    "entity": "河井法相",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Kazuo Shii\".",
+    "image": "japanese_648.jpg",
+    "target": "Katsuyuki Kawai",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11553342",
+    "wikidata_incoming_links": 8,
+    "aliases": []
+  },
+  {
+    "title": "遺体はサラ選手と確認　英プレミア・カーディフ移籍直後の飛行機事故",
+    "entity": "サラ",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Sarri\".",
+    "image": "japanese_674.jpg",
+    "target": "Emiliano Sala",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q31442",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Emiliano Raúl Sala"
+    ]
+  },
+  {
+    "title": "快晴の朝がたちまち地獄に……リトルボーイとファットマンの投下から75年",
+    "entity": "ファットマン",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Fat Man (atomic bomb)\".",
+    "image": "japanese_966.jpg",
+    "target": "Fat Man",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q188163",
+    "wikidata_incoming_links": 9,
+    "aliases": [
+      "ファット・マン",
+      "長崎型原子爆弾",
+      "長崎型原爆"
+    ]
+  },
+  {
+    "title": "快晴の朝がたちまち地獄に……リトルボーイとファットマンの投下から75年",
+    "entity": "リトルボーイ",
+    "prediction": "Little Boy (atomic bomb)",
+    "image": "japanese_966.jpg",
+    "target": "Little Boy",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q181013",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "リトル・ボーイ",
+      "広島型原子爆弾",
+      "広島型原爆"
+    ]
+  },
+  {
+    "title": "米CIA長官とタリバン幹部がカブールで秘密会談＝米報道",
+    "entity": "タリバン幹部",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Taliban\".",
+    "image": "japanese_373.jpg",
+    "target": "Abdul Ghani Baradar",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q317219",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "アブドル・ガニ・バラダル",
+      "Baradar",
+      "Mullah Abdul Ghani Baradar"
+    ]
+  },
+  {
+    "title": "アインシュタインの「幸福論」、約2億円で落札　帝国ホテルでチップ代わりに",
+    "entity": "帝国ホテル",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Imperial Hotel (Tokyo)\".",
+    "image": "japanese_72.jpg",
+    "target": "Imperial Hotel, Tokyo",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q712476",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "帝国ホテル東京",
+      "Imperial Hotel Tokyo",
+      "Imperial Hotel, Tokyo"
+    ]
+  },
+  {
+    "title": "米ヴァージン・オービット、空中発射ロケットの初実験に失敗",
+    "entity": "ヴァージン・オービット",
+    "prediction": "Virgin Orbit",
+    "image": "japanese_921.jpg",
+    "target": "Virgin Orbit",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q28939648",
+    "wikidata_incoming_links": 9,
+    "aliases": []
+  },
+  {
+    "title": "絵本「はらぺこあおむし」の作家エリック・カール氏　91歳で死去",
+    "entity": "はらぺこあおむし",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"The Very Hungry Caterpillar\".",
+    "image": "japanese_445.jpg",
+    "target": "The Very Hungry Caterpillar",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q491657",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "Very Hungry Caterpillar"
+    ]
+  },
+  {
+    "title": "【美土路の見どころ】 意表つく「ハカ」への向き合い方　3位決定戦ではいかに",
+    "entity": "ハカ",
+    "prediction": "Haka",
+    "image": "japanese_251.jpg",
+    "target": "Haka",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3595586",
+    "wikidata_incoming_links": 10,
+    "aliases": []
+  },
+  {
+    "title": "パキスタン証券取引所で銃撃　襲撃犯4人や警官ら死亡",
+    "entity": "パキスタン証券取引所",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Pakistan Stock Exchange\".",
+    "image": "japanese_60.jpg",
+    "target": "Pakistan Stock Exchange",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q22907578",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "KSE",
+      "PSX",
+      "XKAR"
+    ]
+  },
+  {
+    "title": "「わびさび」、日本独自の世界観　完璧を求めず",
+    "entity": "わびさび",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Wabi-sabi\".",
+    "image": "japanese_478.jpg",
+    "target": "Wabi-sabi",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1142664",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "わびさび",
+      "佗・寂",
+      "侘・寂",
+      "侘び・寂び",
+      "侘寂",
+      "侘び寂び",
+      "wabisabi",
+      "wobby sobby",
+      "侘び寂び",
+      "wabi sabi"
+    ]
+  },
+  {
+    "title": "東電の旧経営陣3人に無罪判決　福島原発事故で東京地裁",
+    "entity": "東京地裁",
+    "prediction": "Tokyo District Court",
+    "image": "japanese_117.jpg",
+    "target": "Tokyo District Court",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q82678",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "東京地方裁判所八王子支部",
+      "東京地方裁判所立川支部",
+      "東京地裁",
+      "東京地裁立川支部"
+    ]
+  },
+  {
+    "title": "バイデン氏、トランプ政権の「TikTok禁止」令を撤回",
+    "entity": "TikTok",
+    "prediction": "TikTok",
+    "image": "japanese_889.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q121133407",
+    "wikidata_incoming_links": 11,
+    "aliases": []
+  },
+  {
+    "title": "【東京五輪】 競泳の大橋が2個目の金メダル、本多も銀　英男子がリレーで優勝",
+    "entity": "大橋",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Mio Narita\".",
+    "image": "japanese_635.jpg",
+    "target": "Yui Ohashi",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29789513",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "Ohashi Yui",
+      "Ōhashi Yui",
+      "Ohhashi Yui",
+      "Oohashi Yui",
+      "Ouhashi Yui",
+      "Yui Ōhashi",
+      "Yui Ohhashi",
+      "Yui Oohashi",
+      "Yui Ouhashi"
+    ]
+  },
+  {
+    "title": "「ギャラクシーノート７」の電源切って＝サムスン",
+    "entity": "ギャラクシーノート７",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Samsung Galaxy Note 7\".",
+    "image": "japanese_167.jpg",
+    "target": "Samsung Galaxy Note 7",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q24702734",
+    "wikidata_incoming_links": 12,
+    "aliases": [
+      "Galaxy Note 7",
+      "Note 7",
+      "Samsung Note 7"
+    ]
+  },
+  {
+    "title": "昭恵夫人はなぜトランプ氏と話さなかったのか",
+    "entity": "昭恵",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Yukio Hatoyama\".",
+    "image": "japanese_272.jpg",
+    "target": "Akie Abe",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q73358",
+    "wikidata_incoming_links": 12,
+    "aliases": [
+      "松崎昭恵",
+      "Akie Matsuzaki"
+    ]
+  },
+  {
+    "title": "【東京五輪】 競泳女子の大橋、金メダル獲得　400M個人メドレー",
+    "entity": "大橋",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Mio Narita\".",
+    "image": "japanese_300.jpg",
+    "target": "Yui Ohashi",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29789513",
+    "wikidata_incoming_links": 11,
+    "aliases": [
+      "Ohashi Yui",
+      "Ōhashi Yui",
+      "Ohhashi Yui",
+      "Oohashi Yui",
+      "Ouhashi Yui",
+      "Yui Ōhashi",
+      "Yui Ohhashi",
+      "Yui Oohashi",
+      "Yui Ouhashi"
+    ]
+  },
+  {
+    "title": "ジョンソン英首相の妻キャリーさん、クリスマスに第2子出産予定　流産経験も告白",
+    "entity": "キャリー",
+    "prediction": "Carrie Johnson",
+    "image": "japanese_905.jpg",
+    "target": "Carrie Johnson",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q64732854",
+    "wikidata_incoming_links": 14,
+    "aliases": [
+      "Caroline Louise Beavan Johnson",
+      "Caroline Louise Bevan Johnson",
+      "Carrie Symonds"
+    ]
+  },
+  {
+    "title": "「天宮1号」が南太平洋上で大気圏に突入＝米中報道",
+    "entity": "天宮1号",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Tiangong-1\".",
+    "image": "japanese_413.jpg",
+    "target": "Tiangong-1",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q131500",
+    "wikidata_incoming_links": 14,
+    "aliases": [
+      "Heavenly Palace 1",
+      "Tiangong 1",
+      "Tiangong1"
+    ]
+  },
+  {
+    "title": "ユダヤ教徒追悼に「イエスの祈り」で副大統領に怒りの声　米ピッツバーグ乱射事件",
+    "entity": "ピッツバーグ乱射事件",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Pittsburgh synagogue shooting\".",
+    "image": "japanese_462.jpg",
+    "target": "Pittsburgh synagogue shooting",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q57830735",
+    "wikidata_incoming_links": 12,
+    "aliases": [
+      "ピッツバーグ礼拝所銃乱射事件",
+      "Pittsburgh shooting",
+      "2018 Pittsburgh attack",
+      "2018 Pittsburgh shooting",
+      "2018 Pittsburgh synagogue shooting",
+      "2018 synagogue shooting",
+      "Pittsburgh synagogue attack",
+      "Tree of Life – Or L'Simcha Congregation shooting",
+      "Tree of Life synagogue shooting"
+    ]
+  },
+  {
+    "title": "横浜沖のクルーズ船、新たに41人の感染確認　新型ウイルス",
+    "entity": "クルーズ船",
+    "prediction": "Cruise ship",
+    "image": "japanese_492.jpg",
+    "target": "Diamond Princess (ship)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1208722",
+    "wikidata_incoming_links": 14,
+    "aliases": [
+      "ダイヤモンド・プリンセス",
+      "IMO 9228198",
+      "M/S Diamond Princess"
+    ]
+  },
+  {
+    "title": "カブールのアメリカン大学襲撃、13人死亡",
+    "entity": "アメリカン大学",
+    "prediction": "American University of Afghanistan",
+    "image": "japanese_321.jpg",
+    "target": "American University of Afghanistan",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3918332",
+    "wikidata_incoming_links": 14,
+    "aliases": []
+  },
+  {
+    "title": "マリでクーデターか、大統領が拘束後に辞任　政府と議会も解散",
+    "entity": "大統領",
+    "prediction": "President of Mali",
+    "image": "japanese_0.jpg",
+    "target": "Ibrahim Boubacar Keïta",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q324108",
+    "wikidata_incoming_links": 16,
+    "aliases": [
+      "イブライム・ケイタ",
+      "IBK",
+      "Ibrahim Boubacar Keita"
+    ]
+  },
+  {
+    "title": "ハリケーン「マリア」被害、ドミニカで少なくとも15人死亡",
+    "entity": "マリア",
+    "prediction": "Hurricane Maria",
+    "image": "japanese_543.jpg",
+    "target": "Hurricane Maria",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q40178187",
+    "wikidata_incoming_links": 16,
+    "aliases": [
+      "Maria"
+    ]
+  },
+  {
+    "title": "【東京五輪】 自転車女子オムニアムで梶原が銀　男子ケイリンは英選手2連覇",
+    "entity": "英選手",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Great Britain at the Olympics\".",
+    "image": "japanese_560.jpg",
+    "target": "Jason Kenny",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q460643",
+    "wikidata_incoming_links": 15,
+    "aliases": [
+      "ジェイソン・フランシス・ケニー",
+      "Sir Jason Francis Kenny"
+    ]
+  },
+  {
+    "title": "アニメ･ファン、五輪に登場の「ユーリ!!!」曲に興奮と涙",
+    "entity": "ユーリ!!!",
+    "prediction": "Yuri!!! on Ice",
+    "image": "japanese_436.jpg",
+    "target": "Yuri on Ice",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q25104182",
+    "wikidata_incoming_links": 15,
+    "aliases": [
+      "ユーリ!!! on ICE",
+      "YOI",
+      "Yuri!!! on Ice"
+    ]
+  },
+  {
+    "title": "トランプ米大統領、エスパー国防長官を解任　ツイッターで発表",
+    "entity": "エスパー国防長官",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"エスパー国防長官\" mentioned in the news article \"トランプ米大統領、エスパー国防長官を解任　ツイッターで発表\" is \"Mark Esper\".",
+    "image": "japanese_484.jpg",
+    "target": "Mark Esper",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q33190271",
+    "wikidata_incoming_links": 15,
+    "aliases": [
+      "Mark Esper",
+      "Mark Thomas Esper"
+    ]
+  },
+  {
+    "title": "ゴーン被告逃亡手助けか　米当局、元特殊部隊員と息子を逮捕",
+    "entity": "ゴーン",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"ゴーン\" mentioned in the news article \"ゴーン被告逃亡手助けか　米当局、元特殊部隊員と息子を逮捕\" is \"Carlos Ghosn\".",
+    "image": "japanese_496.jpg",
+    "target": "Carlos Ghosn",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q356719",
+    "wikidata_incoming_links": 15,
+    "aliases": [
+      "カルロス・ゴーン・ビシャラ",
+      "カルロスゴーン",
+      "Carlos Ghosn dit Bichara",
+      "Kārlūs Ghuṣn"
+    ]
+  },
+  {
+    "title": "サー・テレンス・コンランが88歳で死去　生活デザインの変革者",
+    "entity": "サー・テレンス・コンラン",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Terence Conran\".",
+    "image": "japanese_378.jpg",
+    "target": "Terence Conran",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q704123",
+    "wikidata_incoming_links": 15,
+    "aliases": [
+      "コンラン",
+      "コンラン卿",
+      "Sir Terence Conran",
+      "Sir Terence Orby Conran"
+    ]
+  },
+  {
+    "title": "プエルトリコ全土が停電　ハリケーン「マリア」",
+    "entity": "ハリケーン「マリア」",
+    "prediction": "Hurricane Maria",
+    "image": "japanese_396.jpg",
+    "target": "Hurricane Maria",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q40178187",
+    "wikidata_incoming_links": 16,
+    "aliases": [
+      "Maria"
+    ]
+  },
+  {
+    "title": "ネット掲示板「8chan」がオフラインに　銃撃犯が犯行声明を投稿か",
+    "entity": "8chan",
+    "prediction": "8chan",
+    "image": "japanese_597.jpg",
+    "target": "8chan",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q18712091",
+    "wikidata_incoming_links": 15,
+    "aliases": [
+      "8kun",
+      "∞chan",
+      "8kun",
+      "infinitechan"
+    ]
+  },
+  {
+    "title": "ベイルート爆発で生存者か　発生から1カ月、「がれき下で心音」の未確認情報",
+    "entity": "ベイルート爆発",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Beirut explosion\".",
+    "image": "japanese_401.jpg",
+    "target": "2020 Beirut explosion",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q98073118",
+    "wikidata_incoming_links": 17,
+    "aliases": [
+      "2020年ベイルート爆発",
+      "2020 Beirut explosion",
+      "2020 Lebanon explosion",
+      "4 Aug 2020 Beirut explosion",
+      "4 August 2020 Beirut explosion",
+      "Beirut blast",
+      "Beirut explosion"
+    ]
+  },
+  {
+    "title": "超大型ハリケーン「イルマ」、カリブ海諸島で大被害　「ほぼ居住不可能」な島も",
+    "entity": "カリブ海諸島",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Caribbean\".",
+    "image": "japanese_273.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q12366344",
+    "wikidata_incoming_links": 19,
+    "aliases": []
+  },
+  {
+    "title": "プーチン氏、シリア・東グータで「人道的休戦」指示　1日5時間",
+    "entity": "グータ",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Douma\".",
+    "image": "japanese_99.jpg",
+    "target": "Ghuta",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1522001",
+    "wikidata_incoming_links": 18,
+    "aliases": [
+      "東グータ地区"
+    ]
+  },
+  {
+    "title": "ヘリ墜落死のレスター・シティ会長葬儀に選手ら参列　岡崎慎司の姿も",
+    "entity": "岡崎慎司",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Kelechi Iheanacho\".",
+    "image": "japanese_137.jpg",
+    "target": "Shinji Okazaki",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q310612",
+    "wikidata_incoming_links": 18,
+    "aliases": []
+  },
+  {
+    "title": "米医療保険制度改革、上院案で2200万人が無保険に＝議会予算局",
+    "entity": "議会予算局",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Congressional Budget Office\".",
+    "image": "japanese_524.jpg",
+    "target": "Congressional Budget Office",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1125991",
+    "wikidata_incoming_links": 17,
+    "aliases": [
+      "アメリカ合衆国議会予算局",
+      "アメリカ議会予算局",
+      "米国議会予算局",
+      "議会予算局（CBO）",
+      "CBO"
+    ]
+  },
+  {
+    "title": "モニカ・ルインスキー氏、クリントン元大統領との不倫は「重大な権力乱用」",
+    "entity": "モニカ・ルインスキー",
+    "prediction": "Monica Lewinsky",
+    "image": "japanese_780.jpg",
+    "target": "Monica Lewinsky",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q212659",
+    "wikidata_incoming_links": 19,
+    "aliases": [
+      "Monica S. Lewinsky",
+      "Monica Samille Lewinsky"
+    ]
+  },
+  {
+    "title": "ソフトボール日本代表選手の金メダル交換へ　出身市の市長がかんで批判殺到",
+    "entity": "市長",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Mayor\".",
+    "image": "japanese_609.jpg",
+    "target": "Takashi Kawamura (politician)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q440000",
+    "wikidata_incoming_links": 20,
+    "aliases": [
+      "河村隆之"
+    ]
+  },
+  {
+    "title": "ミャンマーの少数民族ロヒンギャ、衝突受け多数が隣国に避難",
+    "entity": "ロヒンギャ",
+    "prediction": "Rohingya people",
+    "image": "japanese_764.jpg",
+    "target": "Rohingya people",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q464529",
+    "wikidata_incoming_links": 18,
+    "aliases": [
+      "Rohinga"
+    ]
+  },
+  {
+    "title": "フリン前米補佐官、ギュレン師誘拐を画策？　トルコ「馬鹿げている」",
+    "entity": "ギュレン師",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Fethullah Gülen\".",
+    "image": "japanese_493.jpg",
+    "target": "Fethullah Gülen",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q488200",
+    "wikidata_incoming_links": 18,
+    "aliases": [
+      "尊師",
+      "フェトゥフッラー・ギュレン",
+      "ホジャエフェンディ",
+      "Muhammad Fethullah Gülen"
+    ]
+  },
+  {
+    "title": "ジャカルタ発ライオン航空機が海に墜落　乗員乗客180人以上",
+    "entity": "ライオン航空",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Lion Air\".",
+    "image": "japanese_711.jpg",
+    "target": "Lion Air",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1056794",
+    "wikidata_incoming_links": 20,
+    "aliases": [
+      "JT",
+      "ライオンエア",
+      "LNI",
+      "ライオン航空"
+    ]
+  },
+  {
+    "title": "英企業の約3割、ブレグジットで海外移転を検討＝経営者団体調査",
+    "entity": "経営者団体",
+    "prediction": "Business leaders",
+    "image": "japanese_109.jpg",
+    "target": "Institute of Directors",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q14996968",
+    "wikidata_incoming_links": 19,
+    "aliases": [
+      "英国経営者協会"
+    ]
+  },
+  {
+    "title": "バイデン親子を捜査する必要なし　ウクライナの前検事総長がBBCに",
+    "entity": "ウクライナの前検事総長",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Yuriy Lutsenko\".",
+    "image": "japanese_377.jpg",
+    "target": "Yuriy Lutsenko",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q458282",
+    "wikidata_incoming_links": 21,
+    "aliases": [
+      "ユリー・ルトシェンコ",
+      "Yuriy Vitaliyovych Lutsenko",
+      "Yurii Lutsenko"
+    ]
+  },
+  {
+    "title": "音声SNS「クラブハウス」、中国でオフラインに　当局が規制か",
+    "entity": "クラブハウス",
+    "prediction": "Clubhouse (audio app)",
+    "image": "japanese_813.jpg",
+    "target": "Clubhouse (app)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q104101703",
+    "wikidata_incoming_links": 22,
+    "aliases": [
+      "クラブハウス",
+      "クラブハウス ザ・音声SNSアプリ",
+      "Clubhouse: Social audio"
+    ]
+  },
+  {
+    "title": "一人っ子政策終了は「万能薬ではない」",
+    "entity": "一人っ子政策",
+    "prediction": "One-child policy",
+    "image": "japanese_874.jpg",
+    "target": "One-child policy",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q221719",
+    "wikidata_incoming_links": 20,
+    "aliases": [
+      "1人っ子政策"
+    ]
+  },
+  {
+    "title": "「生まれて初めて自由に息ができる」　ベラルーシで大統領選めぐる抗議続く",
+    "entity": "大統領選",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Presidential election in Belarus\".",
+    "image": "japanese_466.jpg",
+    "target": "2020 Belarusian presidential election",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q75556449",
+    "wikidata_incoming_links": 21,
+    "aliases": []
+  },
+  {
+    "title": "フリン氏の弁護士、トランプ氏弁護士と情報共有中止　ロシア疑惑捜査",
+    "entity": "フリン",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Michael Flynn\".",
+    "image": "japanese_868.jpg",
+    "target": "Michael Flynn",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6834757",
+    "wikidata_incoming_links": 24,
+    "aliases": [
+      "Mike Flynn",
+      "Michael T. Flynn",
+      "Michael Thomas Flynn"
+    ]
+  },
+  {
+    "title": "ギリシャ警察、火災で住む場所失った難民に催涙ガス　難民キャンプ新設めぐり衝突",
+    "entity": "ギリシャ警察",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Greece Police\".",
+    "image": "japanese_607.jpg",
+    "target": "Hellenic Police",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2657799",
+    "wikidata_incoming_links": 24,
+    "aliases": [
+      "ギリシャ国家警察",
+      "Greek National Police",
+      "Greek Police",
+      "Police of Greece"
+    ]
+  },
+  {
+    "title": "【検証】 加熱する米中貿易戦争、勝者はヴェトナム？",
+    "entity": "米中貿易戦争",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"China–United States trade war\".",
+    "image": "japanese_766.jpg",
+    "target": "China–United States trade war",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q51557538",
+    "wikidata_incoming_links": 23,
+    "aliases": [
+      "China–United States trade dispute",
+      "China–United States trade war since 2018",
+      "China–US trade war",
+      "U.S.-China trade war",
+      "US–China trade war",
+      "Sino-US trade war"
+    ]
+  },
+  {
+    "title": "ヴェルサーチ、Tシャツの「香港」表記で謝罪　独立地域と示唆",
+    "entity": "ヴェルサーチ",
+    "prediction": "Versace",
+    "image": "japanese_901.jpg",
+    "target": "Versace",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q696376",
+    "wikidata_incoming_links": 24,
+    "aliases": [
+      "Gianni Versace",
+      "Gianni Versace S.p.A",
+      "VERSACE"
+    ]
+  },
+  {
+    "title": "フリン前大統領補佐官についてオバマ氏も警告　ホワイトハウス認める",
+    "entity": "フリン",
+    "prediction": "Michael Flynn",
+    "image": "japanese_924.jpg",
+    "target": "Michael Flynn",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6834757",
+    "wikidata_incoming_links": 24,
+    "aliases": [
+      "Mike Flynn",
+      "Michael T. Flynn",
+      "Michael Thomas Flynn"
+    ]
+  },
+  {
+    "title": "豪ヴァージン・オーストラリア航空が任意管理手続きに、政府の支援得られず",
+    "entity": "ヴァージン・オーストラリア航空",
+    "prediction": "Virgin Australia",
+    "image": "japanese_973.jpg",
+    "target": "Virgin Australia",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q727074",
+    "wikidata_incoming_links": 21,
+    "aliases": [
+      "VOZ",
+      "ヴァージン・オーストラリア航空",
+      "ヴァージン・ブルー",
+      "ヴァージン・ブルー航空",
+      "ヴァージンブルー",
+      "ヴァージンブルー航空",
+      "バージンブルー航空",
+      "Virgin Australia Air",
+      "Virgin Australia Airline",
+      "Virgin Australia Airlines Pty Ltd.",
+      "Virgin Blue",
+      "Virgin Blue Air",
+      "Virgin Blue Airline",
+      "Virgin Blue Airlines"
+    ]
+  }
+]

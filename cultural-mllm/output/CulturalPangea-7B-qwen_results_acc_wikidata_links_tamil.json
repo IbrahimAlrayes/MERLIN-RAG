@@ -1,0 +1,1440 @@
+[
+  {
+    "title": "NEET தேர்வு பிரச்சனை: 7.5 % உள் ஒதுக்கீட்டில் மருத்துவக் கல்லூரி இடம் கோரிய அரசு உதவி பெறும் பள்ளி மாணவி மனு - தள்ளுபடி செய்த மதுரை உயர்நீதிமன்றம்",
+    "entity": "NEET தேர்வு",
+    "prediction": "National Eligibility cum Entrance Test",
+    "image": "tamil_330.jpg",
+    "target": "National Eligibility cum Entrance Test (Undergraduate)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q17077785",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "National Eligibility and Entrance Test (Undergraduate)",
+      "NEET (UG)"
+    ]
+  },
+  {
+    "title": "வடசென்னை மக்களவை தொகுதி: துறைமுகம், தொழிற்சாலைகள் மற்றும் மாறாத வாழ்க்கைதரம்",
+    "entity": "வடசென்னை",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"North Chennai\".",
+    "image": "tamil_331.jpg",
+    "target": "North Chennai",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q19894840",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "ஆஸ்திரேலிய சர்வதேச விமான சாகச கண்காட்சியின் மலைக்க வைக்கும் காட்சிகள்",
+    "entity": "ஆஸ்திரேலிய சர்வதேச விமான சாகச கண்காட்சியின்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Royal Australian Air Force\".",
+    "image": "tamil_247.jpg",
+    "target": "Australian International Airshow",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q4824330",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "கிரிக்கெட்: ‘ரோகித் இருந்தால் போதும், எந்த சேசிங்கும் எளிதுதான்’ - கோலி புகழாரம்",
+    "entity": "ரோகித்",
+    "prediction": "Rohit Sharma",
+    "image": "tamil_268.jpg",
+    "target": "Rohit Sharma (Rajasthan cricketer)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26436595",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "இலங்கையில் கடும் வறட்சி: வில்பத்து தேசிய சரணாலயத்தை தற்காலிகமாக மூட முடிவு",
+    "entity": "வில்பத்து தேசிய சரணாலயத்தை",
+    "prediction": "Wilpattu National Park",
+    "image": "tamil_150.jpg",
+    "target": "Wilpattu National Park",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3524793",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "எம்எச்370-இன் உடைந்த பாகங்களை தேட மடகாஸ்கர் செல்லும் பயணியரின் உறவினர்கள்",
+    "entity": "எம்எச்370",
+    "prediction": "Malaysia Airlines Flight 370",
+    "image": "tamil_546.jpg",
+    "target": "MH370: The Plane That Disappeared",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q116878774",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "என்ரிக்கே சர்ச்சை: பணத்தை திருப்பிக் கொடுக்க மஹேல, சங்கா கோரிக்கை",
+    "entity": "சங்கா",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"சங்கா\" mentioned in the news article \"என்ரிக்கே சர்ச்சை: பணத்தை திருப்பிக் கொடுக்க மஹேல, சங்கா கோரிக்கை\" is \"Sangakkara\".",
+    "image": "tamil_66.jpg",
+    "target": "Kumar Sangakkara",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q737645",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Kumar Chokshanada Sangakkara",
+      "Kumar Chokshanadan Sangakkara",
+      "Sangakkara"
+    ]
+  },
+  {
+    "title": "பிக்பாஸ் லொஸ்லியா - கவின் காதலை ஏன் எதிர்க்கிறீர்கள்? - இயக்குநர் வசந்த பாலன் கேள்வி",
+    "entity": "லொஸ்லியா",
+    "prediction": "Losliya Mariyan",
+    "image": "tamil_808.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q64945404",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "லொஸ்லியா மரியனேசன்"
+    ]
+  },
+  {
+    "title": "ஸ்ரீசாந்த் குற்றச்சாட்டில் இருந்து விடுதலை",
+    "entity": "ஸ்ரீசாந்த்",
+    "prediction": "Suresh Raina",
+    "image": "tamil_868.jpg",
+    "target": "S. Sreesanth",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3520276",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "ஸ்ரீசாந்த்",
+      "Shanthakumaran Nair Sreesanth",
+      "Shanthakumaran Sreesanth",
+      "Sreesanth"
+    ]
+  },
+  {
+    "title": "ஐபிஎல் போட்டிகளில் பங்குபெற லசித் மாலிங்காவுக்கு அனுமதி மறுப்பு",
+    "entity": "லசித் மாலிங்காவுக்கு",
+    "prediction": "Lasith Malinga",
+    "image": "tamil_893.jpg",
+    "target": "Lasith Malinga",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q2312779",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Separamadu Lasith Malinga"
+    ]
+  },
+  {
+    "title": "இலங்கை தேர்தல்: தமிழ் ஈழ விடுதலை இயக்கத்தில் இருந்து விலகினார் ஜனாதிபதி வேட்பாளர் சிவாஜிலிங்கம்",
+    "entity": "சிவாஜிலிங்கம்",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"சிவாஜிலிங்கம்\" mentioned in the news article \"இலங்கை தேர்தல்: தமிழ் ஈழ விடுதலை இயக்கத்தில் இருந்து விலகினார் ஜனாதிபதி வேட்பாளர் சிவாஜிலிங்கம்\" is \"Sivajilingam\".",
+    "image": "tamil_335.jpg",
+    "target": "M. K. Shivajilingam",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q6712780",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "ஸ்டேன் சுவாமி: பயங்கரவாத வழக்கை எதிர்கொண்ட மிக வயோதிக செயல்பாட்டாளர்",
+    "entity": "ஸ்டேன் சுவாமி",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Stan Swamy\".",
+    "image": "tamil_352.jpg",
+    "target": "Stan Swamy",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q100275270",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Father Stan Swamy",
+      "Stan Swamy",
+      "Stanislaus Lourduswamy"
+    ]
+  },
+  {
+    "title": "மோதி அமெரிக்க உடன்படிக்கை: இந்திய பொதுத் துறை நிறுவனமான பெட்ரோநெட் பங்குகள் வீழ்ச்சி",
+    "entity": "பெட்ரோநெட்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Petronet\".",
+    "image": "tamil_250.jpg",
+    "target": "Petronet LNG",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q7179027",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Petronet LNG Limited",
+      "Petronet LNG Ltd"
+    ]
+  },
+  {
+    "title": "காந்தி படம் கொண்ட செருப்பு விற்பனை; மீண்டும் சர்ச்சையில் சிக்கியது அமேசான்",
+    "entity": "காந்தி",
+    "prediction": "Mahatma Gandhi",
+    "image": "tamil_258.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q111826792",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "M. K. Gandhi"
+    ]
+  },
+  {
+    "title": "உலக இதய தினம்: ஹார்ட் அட்டாக், கார்டியாக் அரெஸ்ட் - வேறுபாடு என்ன?",
+    "entity": "உலக இதய தினம்",
+    "prediction": "World Heart Day",
+    "image": "tamil_116.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q12758681",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "புல்வாமா குறித்து மோதியிடம் நேருக்கு நேராக நின்று கேள்வி கேட்பேன்: தேஜ் பகதூர் யாதவ்",
+    "entity": "தேஜ் பகதூர் யாதவ்",
+    "prediction": "Tej Bahadur Yadav",
+    "image": "tamil_170.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q64002809",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "வைரவிழாவில் கருணாநிதி கலந்துகொள்ள மாட்டார்: மு.க. ஸ்டாலின்",
+    "entity": "மு.க ஸ்டாலின்",
+    "prediction": "M. K. Stalin",
+    "image": "tamil_478.jpg",
+    "target": "Karunanidhi family",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q6373683",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "\"கொல்லப்பட்ட பிறகு தான் எனக்கு பாதுகாப்பு தருவார்களோ?\" - உமர் காலித் #BBCSpecial",
+    "entity": "உமர் காலித்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Umar Khalid\".",
+    "image": "tamil_14.jpg",
+    "target": "Umar Khalid",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q23305519",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "ஹிரோஷிமா, நாகசாகி நாள் : அணு குண்டுக்குத் தப்பிய பெண்களின் அனுபவங்கள்",
+    "entity": "ஹிரோஷிமா",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"ஹிரோஷிமா\" mentioned in the news article \"ஹிரோஷிமா, நாகசாகி நாள் : அணு குண்டுக்குத் தப்பிய பெண்களின் அனுபவங்கள்\" is \"Hiroshima\".",
+    "image": "tamil_629.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11484688",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "மஹாபாரதத்தில் இருந்தே போலிச் செய்திகள் உள்ளன: மத்திய தகவல் ஆணையர் மாடபூஷி ஸ்ரீதர் #BeyondFakeNews",
+    "entity": "மாடபூஷி ஸ்ரீதர்",
+    "prediction": "Madapu Sridhar",
+    "image": "tamil_851.jpg",
+    "target": "Madabhushi Sridhar",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q15627003",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Madabhushi Sridhar Acharyulu"
+    ]
+  },
+  {
+    "title": "தலைமன்னாருக்கு மீளக்குடியேறச் சென்ற குடும்பங்கள் அவதி",
+    "entity": "தலைமன்னாருக்கு",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Tamil Eelam\".",
+    "image": "tamil_210.jpg",
+    "target": "Talaimannar",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q667664",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "சுரேஷ் ரெய்னா: \"நானும் பிராமணன் தான்\" - நேரலையில் ஜாதியை அடையாளப்படுத்தியதால் சர்ச்சை",
+    "entity": "சுரேஷ் ரெய்னா",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Suresh Raina\".",
+    "image": "tamil_290.jpg",
+    "target": "Suresh Raina",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3519505",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Suresh Kumar Raina"
+    ]
+  },
+  {
+    "title": "அமெரிக்க குடியேறிகள் பிரச்சனை: 52 இந்தியர்களின் நிலை என்ன?",
+    "entity": "இந்தியர்களின்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Indians in the United States\".",
+    "image": "tamil_112.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q124683152",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "அபிநந்தன் பிடிபட்டது எப்படி? பாகிஸ்தானில் நேரில் பார்த்தவர் கூறுவது என்ன?",
+    "entity": "அபிநந்தன்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Abhinandan Varthaman\".",
+    "image": "tamil_144.jpg",
+    "target": "Abhinandan Varthaman",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q61926955",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "அபிநந்தன் வர்த்தமான்",
+      "Varthaman Abhinandan"
+    ]
+  },
+  {
+    "title": "தெஹல்கா ஆசிரியர் மீது பாலியல் குற்றச்சாட்டு",
+    "entity": "தெஹல்கா",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Teheran University\".",
+    "image": "tamil_953.jpg",
+    "target": "Tehelka",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3046981",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "டேரன் சமி: ‘என்னை காலு என அழைத்தவர்கள் மன்னிப்பு கேட்கவேண்டும்’ - சிக்கலில் இஷாந்த் சர்மா?",
+    "entity": "டேரன் சமி",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Daran Sami\".",
+    "image": "tamil_958.jpg",
+    "target": "Daren Sammy",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q117743",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Daren Julius Garvey Sammy",
+      "Darren Julius Garvey Sammy"
+    ]
+  },
+  {
+    "title": "ஓபிஎஸ்-இபிஎஸ் அணிகளுக்கு இடையில் அதிகரிக்கிறதா பிளவு?",
+    "entity": "இபிஎஸ்",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'இபிஎஸ்' mentioned in the news article 'ஓபிஎஸ்-இபிஎஸ் அணிகளுக்கு இடையில் அதிகரிக்கிறதா பிளவு?' is 'Indian People's Party'.",
+    "image": "tamil_485.jpg",
+    "target": "Palaniswami ministry",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q30599488",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "கொரோனா வைரஸ்: மலேசியாவில் இந்தியர் பலியா?",
+    "entity": "இந்தியர்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Indian people\".",
+    "image": "tamil_487.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q124683152",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "#வாதம்விவாதம்: “வருமான வரித்துறை மத்திய அரசின் முழுநேர ஏவல்துறையா”",
+    "entity": "வருமான வரித்துறை",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Defence Research and Development Organisation\".",
+    "image": "tamil_711.jpg",
+    "target": "Income Tax Department",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q17055919",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "ஜல்லிக்கட்டு தடை : சனிக்கிழமை ஸ்டாலின் உண்ணாவிரதம்",
+    "entity": "ஜல்லிக்கட்டு",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'ஜல்லிக்கட்டு' mentioned in the news article 'ஜல்லிக்கட்டு தடை : சனிக்கிழமை ஸ்டாலின் உண்ணாவிரதம்' is 'Jallikattu'.",
+    "image": "tamil_740.jpg",
+    "target": "Jallikattu",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3048097",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "ஏருதழுவல்",
+      "ஏறு தழுவல்",
+      "ஏறுகோள்",
+      "சல்லிக்கட்டு",
+      "பாச்சக்காளை",
+      "பாய்ச்சல் காளை",
+      "ஜல்லிக்கட்டு",
+      "Eru thazhuvuthal",
+      "Manju virattu",
+      "Sallikkattu"
+    ]
+  },
+  {
+    "title": "ஜல்லிக்கட்டுக்காக மட்டுமல்ல மது, ஊழலுக்கு எதிராகவும் போராட வேண்டும் : அன்புமணி ராமதாஸ்",
+    "entity": "ஜல்லிக்கட்டுக்காக",
+    "prediction": "Jallikattu",
+    "image": "tamil_744.jpg",
+    "target": "Jallikattu",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3048097",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "ஏருதழுவல்",
+      "ஏறு தழுவல்",
+      "ஏறுகோள்",
+      "சல்லிக்கட்டு",
+      "பாச்சக்காளை",
+      "பாய்ச்சல் காளை",
+      "ஜல்லிக்கட்டு",
+      "Eru thazhuvuthal",
+      "Manju virattu",
+      "Sallikkattu"
+    ]
+  },
+  {
+    "title": "வி.எச்.பி.யில் இருந்து பிரவீன் தொகாடியா விலகல்; காலவரையற்ற உண்ணாவிரதம் அறிவிப்பு",
+    "entity": "பிரவீன் தொகாடியா",
+    "prediction": "Praveen Togadia",
+    "image": "tamil_749.jpg",
+    "target": "Pravin Togadia",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2331819",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Pravin Togadia"
+    ]
+  },
+  {
+    "title": "புளூட்டோவை நெருங்கியது நியூ ஹொரைசான் விண்கலம்",
+    "entity": " புளூட்டோவ",
+    "prediction": "Pluto",
+    "image": "tamil_787.jpg",
+    "target": "Pluto (astrology)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q12372600",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "ஆம் ஆத்மி: கட்சிப்பதவிகளிலிருந்து யோகேந்தர் யாதவ், பிரஷாந்த் பூஷன் நீக்கம் ",
+    "entity": "பிரஷாந்த் பூஷன்",
+    "prediction": "Prashant Bhushan",
+    "image": "tamil_789.jpg",
+    "target": "Prashant Bhushan",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3520886",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "ஜல்லிக்கட்டு போராட்டத்தில் ஊடுருவிய தேசவிரோதிகளை தண்டிக்க வேண்டும்: நிர்மலா",
+    "entity": "ஜல்லிக்கட்டு",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"ஜல்லிக்கட்டு\" mentioned in the news article \"ஜல்லிக்கட்டு போராட்டத்தில் ஊடுருவிய தேசவிரோதிகளை தண்டிக்க வேண்டும்: நிர்மலா\" is \"Jallikattu\".",
+    "image": "tamil_525.jpg",
+    "target": "Jallikattu",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3048097",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "ஏருதழுவல்",
+      "ஏறு தழுவல்",
+      "ஏறுகோள்",
+      "சல்லிக்கட்டு",
+      "பாச்சக்காளை",
+      "பாய்ச்சல் காளை",
+      "ஜல்லிக்கட்டு",
+      "Eru thazhuvuthal",
+      "Manju virattu",
+      "Sallikkattu"
+    ]
+  },
+  {
+    "title": "கஞ்சாவை மருந்தாக பயன்படுத்த பெரு அனுமதி",
+    "entity": "கஞ்சாவை",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is 'Cannabis'.",
+    "image": "tamil_534.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11761190",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "marijuana"
+    ]
+  },
+  {
+    "title": "The Family Man - Season 2 தமிழர்களுக்கு எதிரான வெப் சீரீஸ் தொடரா?",
+    "entity": "The Family Man",
+    "prediction": "The Family Man (TV series)",
+    "image": "tamil_585.jpg",
+    "target": "The Family Man (Indian TV series)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q85807149",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "அலோக் வர்மா வழக்கில் தீர்ப்பு: மீண்டும் சிபிஐ இயக்குநராக்கியது இந்திய உச்ச நீதிமன்றம்",
+    "entity": "அலோக் வர்மா",
+    "prediction": "Aloch Verma",
+    "image": "tamil_2.jpg",
+    "target": "Alok Verma",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q23884049",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Alok Kumar Verma"
+    ]
+  },
+  {
+    "title": "\"பொள்ளாச்சியில் நடந்ததற்கு பசங்க மட்டுமே காரணம் இல்லை\": கே.பாக்கியராஜ் சர்ச்சை கருத்து",
+    "entity": "பொள்ளாச்சியில்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Pollachi sexual assault case\".",
+    "image": "tamil_646.jpg",
+    "target": "Pollachi taluk",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q12986849",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "ஜல்லிக்கட்டு போராட்டத்தில் கைது செய்யப்பட்ட மாணவர்கள் விடுதலை: ஓ. பன்னீர்செல்வம்",
+    "entity": "ஜல்லிக்கட்டு",
+    "prediction": "Jallikattu",
+    "image": "tamil_694.jpg",
+    "target": "Jallikattu",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3048097",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "ஏருதழுவல்",
+      "ஏறு தழுவல்",
+      "ஏறுகோள்",
+      "சல்லிக்கட்டு",
+      "பாச்சக்காளை",
+      "பாய்ச்சல் காளை",
+      "ஜல்லிக்கட்டு",
+      "Eru thazhuvuthal",
+      "Manju virattu",
+      "Sallikkattu"
+    ]
+  },
+  {
+    "title": "சினிமா விமர்சனம்: இரும்புத் திரை",
+    "entity": "இரும்புத் திரை",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Irumbu Thirai\".",
+    "image": "tamil_813.jpg",
+    "target": "Irumbu Thirai (2018 film)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q27962587",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "அமெரிக்காவில் இந்திய மாணவர் சுட்டுக்கொலை",
+    "entity": "இந்திய",
+    "prediction": "India",
+    "image": "tamil_873.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q124683152",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "ஜல்லிக்கட்டுக்கு தொடரும் தடை; தமிழக அரசின் சீராய்வு மனு தள்ளுபடி : உச்சநீதிமன்றம்",
+    "entity": "ஜல்லிக்கட்டுக்கு",
+    "prediction": "Jallikattu",
+    "image": "tamil_898.jpg",
+    "target": "Jallikattu",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3048097",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "ஏருதழுவல்",
+      "ஏறு தழுவல்",
+      "ஏறுகோள்",
+      "சல்லிக்கட்டு",
+      "பாச்சக்காளை",
+      "பாய்ச்சல் காளை",
+      "ஜல்லிக்கட்டு",
+      "Eru thazhuvuthal",
+      "Manju virattu",
+      "Sallikkattu"
+    ]
+  },
+  {
+    "title": "பாஜக vs காங்கிரஸ்: 'அர்னாப் கோஸ்வாமிக்கு ராணுவ ரகசியத்தை அளித்தது நரேந்திர மோதியா, அமித் ஷாவா?' - ராகுல் காந்தி",
+    "entity": "அர்னாப் கோஸ்வாமிக்கு",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"அர்னாப் கோஸ்வாமிக்கு\" mentioned in the news article \"பாஜக vs காங்கிரஸ்: 'அர்னாப் கோஸ்வாமிக்கு ராணுவ ரகசியத்தை அளித்தது நரேந்திர மோதியா, அமித் ஷாவா?' - ரா",
+    "image": "tamil_342.jpg",
+    "target": "Arnab Goswami",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q4794405",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Arnab Goswami"
+    ]
+  },
+  {
+    "title": "தமிழக முன்னாள் வீரர் ராபின் சிங் ஐக்கிய அரபு எமிரேட் கிரிக்கெட் இயக்குநராகிறார்",
+    "entity": "ராபின் சிங்",
+    "prediction": "Robin Singh (cricketer)",
+    "image": "tamil_235.jpg",
+    "target": "Robin Singh (cricketer)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3520910",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Rabindra Ramnarine"
+    ]
+  },
+  {
+    "title": "மட்டக்களப்பில் தேசிய சமாதான பேரவையின் கருத்தரங்கில் குழப்பம்",
+    "entity": "தேசிய சமாதான பேரவையின்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"National Council of Sri Lanka\".",
+    "image": "tamil_106.jpg",
+    "target": "National Peace Council",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q6974842",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "கர்ணன் - சினிமா விமர்சனம்",
+    "entity": "கர்ணன்",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"கர்ணன்\" mentioned in the news article \"கர்ணன் - சினிமா விமர்சனம்\" is \"Karna (film)\".",
+    "image": "tamil_925.jpg",
+    "target": "Karnan (2021 film)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q105474747",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "ஆம் ஆத்மி: கட்சிப்பதவிகளிலிருந்து யோகேந்தர் யாதவ், பிரஷாந்த் பூஷன் நீக்கம் ",
+    "entity": "யோகேந்தர் யாதவ்",
+    "prediction": "Yogendra Yadav",
+    "image": "tamil_789.jpg",
+    "target": "Yogendra Yadav",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q8054365",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "பிக்பாஸ் லொஸ்லியா - கவின் காதலை ஏன் எதிர்க்கிறீர்கள்? - இயக்குநர் வசந்த பாலன் கேள்வி",
+    "entity": "பிக்பாஸ்",
+    "prediction": "Bigg Boss",
+    "image": "tamil_808.jpg",
+    "target": "Bigg Boss",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q55605427",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "ரணிலுக்கு வாக்களிக்காதது ஏன்? - தமிழ்தேசியக் கூட்டமைப்பு எம்.பி. சிவசக்தி ஆனந்தன் விளக்கம்",
+    "entity": "சிவசக்தி ஆனந்தன்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Shivashakti Anandhan\".",
+    "image": "tamil_880.jpg",
+    "target": "Sivasakthy Ananthan",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q7532433",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Annamalai Nadesu Sivasakthi",
+      "Annamalai Nadesu Sivasakthy Ananthan"
+    ]
+  },
+  {
+    "title": "அர்னாப் கைது முழு விவரம்: அன்வே நாயக் வழக்கு முதல் பாஜக ஆதரவு வரை",
+    "entity": "அர்னாப்",
+    "prediction": "Arnab Goswami",
+    "image": "tamil_883.jpg",
+    "target": "Arnab Goswami",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q4794405",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Arnab Goswami"
+    ]
+  },
+  {
+    "title": "எடப்பாடி- ஓபிஎஸ் அணிகள் இணையுமா? மோதி- பன்னீர்செல்வம் திடீர் சந்திப்பு",
+    "entity": "எடப்பாடி",
+    "prediction": "Edappadi K. Palaniswami",
+    "image": "tamil_392.jpg",
+    "target": "Edappadi K. Palaniswami",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6323772",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "இபிஎஸ்",
+      "எடப்பாடி க. பழனிசுவாமி",
+      "எடப்பாடி க.பழனிசுவாமி",
+      "எடப்பாடியார்",
+      "கருப்ப கவுண்டர் பழனிசாமி",
+      "EPS",
+      "Edappadi K Palaniswami",
+      "Edappadi Karuppana Gounder Palanisamy",
+      "Edappadiyar",
+      "Karuppa Gounder Palanisamy"
+    ]
+  },
+  {
+    "title": "நரேந்திர மோதியின் தாராபுரம் பரப்புரை: எடப்பாடி பழனிசாமி, ஓ.பன்னீர்செல்வத்துடன் ஒரே மேடையில் பிரசாரம் - தமிழ்நாடு சட்டமன்றத் தேர்தல் 2021",
+    "entity": "எடப்பாடி பழனிசாமி",
+    "prediction": "Edappadi K. Palaniswami",
+    "image": "tamil_394.jpg",
+    "target": "Edappadi K. Palaniswami",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6323772",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "இபிஎஸ்",
+      "எடப்பாடி க. பழனிசுவாமி",
+      "எடப்பாடி க.பழனிசுவாமி",
+      "எடப்பாடியார்",
+      "கருப்ப கவுண்டர் பழனிசாமி",
+      "EPS",
+      "Edappadi K Palaniswami",
+      "Edappadi Karuppana Gounder Palanisamy",
+      "Edappadiyar",
+      "Karuppa Gounder Palanisamy"
+    ]
+  },
+  {
+    "title": "கொரோனா குறித்து ஈஷா கூறுவதென்ன -சிவராத்திரிக்கு வந்த லட்சக்கணக்கானோர்",
+    "entity": "ஈஷா",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Isha Foundation\".",
+    "image": "tamil_240.jpg",
+    "target": "Isha Foundation",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3532656",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "ஈஷா யோக மையம்"
+    ]
+  },
+  {
+    "title": "ஆஸ்திரேலியா - பாகிஸ்தான் : டேவிட் வார்னர் சதம்; முகமது ஆமீர் 5 விக்கெட்டுகள் - பாகிஸ்தான் தோற்றது ஏன்?",
+    "entity": "டேவிட் வார்னர்",
+    "prediction": "David Warner",
+    "image": "tamil_297.jpg",
+    "target": "David Warner (cricketer)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3018962",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "David Andrew Warner"
+    ]
+  },
+  {
+    "title": "மும்முறை தலாக் வழக்கு விசாரணை: உச்சநீதிமன்றத்தில் தீர்ப்பு ஒத்திவைப்பு",
+    "entity": "மும்முறை தலாக்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Mumtaz Begum\".",
+    "image": "tamil_918.jpg",
+    "target": "Triple talaq in India",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29467997",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "talaq-e-biddat",
+      "talaq-e-mughallazah"
+    ]
+  },
+  {
+    "title": "லாரல் ஹப்பார்ட்: ஒலிம்பிக்கில் போட்டியிட முதல் முறையாக தேர்வான திருநங்கை",
+    "entity": "லாரல் ஹப்பார்ட்",
+    "prediction": "Laral Hapar",
+    "image": "tamil_413.jpg",
+    "target": "Laurel Hubbard",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29002409",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Gavin Hubbard"
+    ]
+  },
+  {
+    "title": "வந்தே மாதரம் பாடலை கல்வி நிலையங்களில் கட்டாயம் பாடவேண்டும்: சென்னை உயர் நீதிமன்றம்",
+    "entity": "வந்தே மாதரம்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Vande Mataram\".",
+    "image": "tamil_38.jpg",
+    "target": "Vande Mataram",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q279417",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "Bande Mataram"
+    ]
+  },
+  {
+    "title": "'யாழ் குடாநாடு ஒரு பாலைவனமாக மாறும் ஆபத்து'' : எச்சரிக்கும் நகர அபிவிருத்தி அமைச்சர்",
+    "entity": "யாழ் குடாநாடு",
+    "prediction": "Jaffna",
+    "image": "tamil_856.jpg",
+    "target": "Jaffna Peninsula",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2495624",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "யாழ் குடாநாடு",
+      "யாழ்ப்பாணத் தீபகற்பம்",
+      "ஜேஆனா பெனின்சுலா"
+    ]
+  },
+  {
+    "title": "காத்தான்குடியில் வன்முறை, தேர்தல் அலுவலகங்கள் மீது தாக்குதல்",
+    "entity": "காத்தான்குடியில்",
+    "prediction": "Kattankudy",
+    "image": "tamil_321.jpg",
+    "target": "Kattankudy",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3536064",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "ஜெரூசலம் பள்ளிவாசலில் மோதல்",
+    "entity": "ஜெரூசலம் பள்ளிவாசலில்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Temple Mount\".",
+    "image": "tamil_212.jpg",
+    "target": "Al-Aqsa Mosque",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q425281",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "மசூத் அஸாரை பயங்கரவாதியாக அறிவித்தது ஐநா: ஆட்சேபனையை விலக்கிக்கொண்ட சீனா",
+    "entity": "மசூத் அஸாரை",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Masjid al-Aqsa\".",
+    "image": "tamil_900.jpg",
+    "target": "Masood Azhar",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q6783838",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Maulana Masood Azhar",
+      "Mohammad Masood Azhar Alvi"
+    ]
+  },
+  {
+    "title": "விடைபெறும் அலிஸ்டர் குக்: புகழ் மழையிலும் கவனம் சிதறாத வீரர்",
+    "entity": "அலிஸ்டர் குக்",
+    "prediction": "Alastair Cook",
+    "image": "tamil_902.jpg",
+    "target": "Alastair Cook",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q500551",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "Alastair Nathan Cook",
+      "Sir Alastair Nathan Cook"
+    ]
+  },
+  {
+    "title": "காணாமல்போனோர் ஜனாதிபதி ஆணைக்குழு காத்தான்குடியில்",
+    "entity": "காத்தான்குடியில்",
+    "prediction": "Kattankudy",
+    "image": "tamil_589.jpg",
+    "target": "Kattankudy",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3536064",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "பிக்பாஸ் லொஸ்லியா - கவின் காதலை ஏன் எதிர்க்கிறீர்கள்? - இயக்குநர் வசந்த பாலன் கேள்வி",
+    "entity": "கவின்",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"கவின்\" mentioned in the news article \"பிக்பாஸ் லொஸ்லியா - கவின் காதலை ஏன் எதிர்க்கிறீர்கள்? - இயக்குநர் வசந்த பாலன் கேள்வி\" is \"Kavin (actor)\".",
+    "image": "tamil_808.jpg",
+    "target": "Kavin Raj",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q26706840",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "VetriMaganKavin"
+    ]
+  },
+  {
+    "title": "மீள்குடியேற்றத்தில் உதவக்கோரி சம்பூர் மக்கள் ஜனாதிபதியிடம் மனு",
+    "entity": "சம்பூர்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is 'Sampur'.",
+    "image": "tamil_861.jpg",
+    "target": "Sampur, Trincomalee",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q7410266",
+    "wikidata_incoming_links": 4,
+    "aliases": []
+  },
+  {
+    "title": "இந்திய வம்சாவளியைச் சேர்ந்த மலையகத் தமிழர்களின் இன்றைய நிலை என்ன?",
+    "entity": "தமிழர்களின்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Tamil people\".",
+    "image": "tamil_313.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q110910325",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "Tamilians",
+      "Tamizhar",
+      "Tamil Nadu residents",
+      "Tamil Nadu, India, residents"
+    ]
+  },
+  {
+    "title": "அரசுக்கு எதிரான போராட்டம்; 46 பேர் கொல்லப்பட்டதை ஒப்புக்கொள்ளும் சூடான் அரசு",
+    "entity": "சூடான் அரசு",
+    "prediction": "Government of Sudan",
+    "image": "tamil_337.jpg",
+    "target": "Government of Sudan",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q46694",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Sudan government"
+    ]
+  },
+  {
+    "title": "கொரோனா வைரஸ்: மதுரை மீனாட்சி அம்மன் கோயில் அர்ச்சகருக்கு கோவிட்-19 தொற்றா?",
+    "entity": "மதுரை மீனாட்சி அம்மன் கோயில்",
+    "prediction": "Meenakshi Amman Temple",
+    "image": "tamil_359.jpg",
+    "target": "Meenakshi Temple",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1424358",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "மதுரை மீனாட்சி",
+      "மதுரை மீனாட்சியம்மன் கோயில்",
+      "மீனாட்சியம்மன் கோவில்",
+      "Meenakshi Amman Temple",
+      "Sri Meenakshi Temple",
+      "Arulmigu Meenakshi Amman Thirukkovil",
+      "Arulmigu Meenakshi Sundaraswarar Temple"
+    ]
+  },
+  {
+    "title": "ஐஎன்எஸ் விக்ராந்தை மூழ்கடிக்க வந்த பாகிஸ்தான் நீர்மூழ்கிக் கப்பல் காஸி மூழ்கிய கதை",
+    "entity": "ஐஎன்எஸ் விக்ராந்தை",
+    "prediction": "INS Vikrant",
+    "image": "tamil_107.jpg",
+    "target": "INS Vikrant (2013)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q14565078",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "Vikrant"
+    ]
+  },
+  {
+    "title": "டேரன் சமி: ‘என்னை காலு என அழைத்தவர்கள் மன்னிப்பு கேட்கவேண்டும்’ - சிக்கலில் இஷாந்த் சர்மா?",
+    "entity": "இஷாந்த் சர்மா",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"இஷாந்த் சர்மா\" mentioned in the news article \"டேரன் சமி: ‘என்னை காலு என அழைத்தவர்கள் மன்னிப்பு கேட்கவேண்டும்’ - சிக்கலில் இஷாந்த் சர்மா?\" is \"Ishant Sharma\".",
+    "image": "tamil_958.jpg",
+    "target": "Ishant Sharma",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3522062",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "பிபிசி 'டாப் கியர்' குழுவினர் மீது அர்ஜெண்டினாவில் தாக்குதல்",
+    "entity": "டாப் கியர்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Top Gear\".",
+    "image": "tamil_729.jpg",
+    "target": "Top Gear (1977 TV series)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q3040066",
+    "wikidata_incoming_links": 6,
+    "aliases": []
+  },
+  {
+    "title": "இலங்கை தமிழர்களை மறந்துவிட்டனரா தமிழக அரசியல்வாதிகள்?",
+    "entity": "தமிழர்களை",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Tamil people\".",
+    "image": "tamil_770.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q110910325",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "Tamilians",
+      "Tamizhar",
+      "Tamil Nadu residents",
+      "Tamil Nadu, India, residents"
+    ]
+  },
+  {
+    "title": "சென்னை ராதாகிருஷ்ணன் நகர் தொகுதிக்கு ஏப்ரல் 12-ல் இடைத்தேர்தல்",
+    "entity": "ராதாகிருஷ்ணன் நகர் தொகுதிக்கு",
+    "prediction": "Radhakrishnan Nagar",
+    "image": "tamil_511.jpg",
+    "target": "Radhakrishnan Nagar Assembly constituency",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q5304336",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "நரேந்திர மோதி, அமித் ஷா வலதுகரமான விஜய் ரூபானி குஜராத் முதல்வர் பதவியில் இருந்து விலகியது ஏன்?",
+    "entity": "விஜய் ரூபானி",
+    "prediction": "Vijay Rupani",
+    "image": "tamil_524.jpg",
+    "target": "Vijay Rupani",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q7929316",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Vijay Ramniklal Rupani",
+      "Vijaybhai Ramniklalbhai Rupani"
+    ]
+  },
+  {
+    "title": "காங்கிரஸ் கட்சியில் இணைந்த ஷகிலா: 'அரசியலில் குஷ்புவுடன் என்னை ஒப்பிட வேண்டாம்'",
+    "entity": "ஷகிலா",
+    "prediction": "Shakila (politician)",
+    "image": "tamil_556.jpg",
+    "target": "Shakila (actress)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q7462923",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "வடகொரிய ஏவுகணைகளை அழிக்க இயங்கத் துவங்கியது அமெரிக்காவின் `தாட்\" தடுப்பு முறை",
+    "entity": "தாட்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Terminal High Altitude Area Defense\".",
+    "image": "tamil_827.jpg",
+    "target": "Terminal High Altitude Area Defense",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q523156",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "THAAD"
+    ]
+  },
+  {
+    "title": "கன்னியா வெந்நீர் ஊற்று பிரதேசத்திற்கு வேறு பாதை: தமிழர்கள் விசனம்",
+    "entity": "தமிழர்கள்",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"தமிழர்கள்\" mentioned in the news article \"கன்னியா வெந்நீர் ஊற்று பிரதேசத்திற்கு வேறு பாதை: தமிழர்கள் விசனம்\" is \"Tamil people\".",
+    "image": "tamil_846.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q110910325",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "Tamilians",
+      "Tamizhar",
+      "Tamil Nadu residents",
+      "Tamil Nadu, India, residents"
+    ]
+  },
+  {
+    "title": "சைலேந்திர பாபு ஐபிஎஸ்: தமிழ்நாட்டின் புதிய டிஜிபி காவல்துறையில் கடந்து வந்த பாதை",
+    "entity": "டிஜிபி",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"டிஜிபி\" mentioned in the news article \"சைலேந்திர பாபு ஐபிஎஸ்: தமிழ்நாட்டின் புதிய டிஜிபி காவல்துறையில் கடந்து வந்த பாதை\" is \"Tamil Nadu Police\".",
+    "image": "tamil_854.jpg",
+    "target": "Director general of police",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q5280523",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "காவல்துறையின் கூடுதல் தலைமை இயக்குநர்",
+      "டி. ஜி. பி.",
+      "டி.ஜி.பி."
+    ]
+  },
+  {
+    "title": "ஜப்பானிய ஃபார்முலா ஒன்று கிரான்ட் பிரிக்ஸ் கார் பந்தயத்தில் மெர்சிடிஸ் வெற்றி",
+    "entity": "மெர்சிடிஸ்",
+    "prediction": "Mercedes-Benz",
+    "image": "tamil_227.jpg",
+    "target": "Mercedes (car brand)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2372729",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "Mercedes brand"
+    ]
+  },
+  {
+    "title": "காலா: ”திரைப்படத்தில் அரசியல் கலப்பது தவறு இல்லை”",
+    "entity": "காலா",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'காலா' mentioned in the news article 'காலா: ”திரைப்படத்தில் அரசியல் கலப்பது தவறு இல்லை”' is 'Kala (film)'.",
+    "image": "tamil_906.jpg",
+    "target": "Kaala (2018 film)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q30048306",
+    "wikidata_incoming_links": 6,
+    "aliases": []
+  },
+  {
+    "title": "ரான்பாக்ஸி மருந்து நிறுவனத்தின் பங்குகள் கடுமையாக சரிந்தன",
+    "entity": "ரான்பாக்ஸி",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'ரான்பாக்ஸி' mentioned in the news article 'ரான்பாக்ஸி மருந்து நிறுவனத்தின் பங்குகள் கடுமையாக சரிந்தன' is 'Dr. Reddy's Laboratories'.",
+    "image": "tamil_943.jpg",
+    "target": "Ranbaxy Laboratories",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q377214",
+    "wikidata_incoming_links": 6,
+    "aliases": []
+  },
+  {
+    "title": "பொங்கல் விடுமுறை குறித்து தமிழ்நாட்டில் சர்ச்சை",
+    "entity": "பொங்கல்",
+    "prediction": "Pongal",
+    "image": "tamil_357.jpg",
+    "target": "Pongal (festival)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q29271",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "தைப் பொங்கல்",
+      "Poṅkal",
+      "Tai Pongal",
+      "Thai Pongal"
+    ]
+  },
+  {
+    "title": "முன்னாள் இலங்கை கிரிக்கெட் வீரர் ஜெயசூரியா மீது ஊழல் குற்றச்சாட்டுகள்",
+    "entity": "ஜெயசூரியா",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is 'Jayasuriya'.",
+    "image": "tamil_202.jpg",
+    "target": "Sanath Jayasuriya",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q378810",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "வின்சென்ட் லேம்பெர்ட்: குடும்பத்தினரின் மாறுபட்ட கருத்துக்களால் கருணை கொலை தாமதம் மற்றும் பிற செய்திகள்",
+    "entity": "வின்சென்ட் லேம்பெர்ட்",
+    "prediction": "Vincent Lambert",
+    "image": "tamil_460.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q55759040",
+    "wikidata_incoming_links": 9,
+    "aliases": [
+      "Vincent Philippon"
+    ]
+  },
+  {
+    "title": "ஹாத்ரஸ் வழக்கு: ராகுல் மற்றும் பிரியங்கா பாதிக்கப்பட்ட குடும்பத்தை சந்தித்தனர்",
+    "entity": "பிரியங்கா",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Priyanka Gandhi\".",
+    "image": "tamil_11.jpg",
+    "target": "Priyanka Gandhi",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q607685",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "प्रियंका गाँधी",
+      "प्रियंका गाँधी वाड्रा",
+      "Priyanka G Vadra",
+      "Priyanka Gandhi",
+      "Priyanka Gandhi Vadra"
+    ]
+  },
+  {
+    "title": "பீகாரில் மூளை காய்ச்சலால் 93 குழந்தைகள் உயிரிழப்பு - லிச்சி பழம் காரணமா?",
+    "entity": "மூளை காய்ச்சலால்",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"மூளை காய்ச்சலால்\" mentioned in the news article \"பீகாரில் மூளை காய்ச்சலால் 93 குழந்தைகள் உயிரிழப்பு - லிச்சி பழம் காரணமா?\" is \"Meningitis\".",
+    "image": "tamil_72.jpg",
+    "target": "Brain fever",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q4955820",
+    "wikidata_incoming_links": 8,
+    "aliases": []
+  },
+  {
+    "title": "கிர் காடுகளின் சிங்கக் குட்டிகள்",
+    "entity": "கிர் காடுகளின்",
+    "prediction": "Kings",
+    "image": "tamil_601.jpg",
+    "target": "Gir National Park",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q337028",
+    "wikidata_incoming_links": 7,
+    "aliases": [
+      "சாசன் கிர்",
+      "Gir Forest National Park",
+      "Gir Forest National Park and Wildlife Sanctuary",
+      "gir Sanctuary",
+      "Sasan Gir National Park",
+      "Sasan Gir Wildlife Sanctuary",
+      "Sasan-Gir"
+    ]
+  },
+  {
+    "title": "இலங்கை: நாமல் ராஜபக்ஷவுக்கு பிணை",
+    "entity": "நாமல் ராஜபக்ஷவுக்கு",
+    "prediction": "Namal Rajapaksa",
+    "image": "tamil_699.jpg",
+    "target": "Namal Rajapaksa",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1848979",
+    "wikidata_incoming_links": 8,
+    "aliases": [
+      "நாமல் ராஜபக்ச",
+      "Lakshman Namal Rajapaksa"
+    ]
+  },
+  {
+    "title": "திராத் சிங் ராவத்: பதவியேற்ற நான்கே மாதங்களில் விலகிய உத்தராகண்ட் பாஜக முதல்வர்",
+    "entity": "திராத் சிங் ராவத்",
+    "prediction": "Thrad Singh Rawat",
+    "image": "tamil_366.jpg",
+    "target": "Tirath Singh Rawat",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q27947626",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "பெப்சிகோ நிறுவனத்தின் தலைமை செயலதிகாரி பதவியிலிருந்து விலகுகிறார் இந்திரா நூயி",
+    "entity": "இந்திரா நூயி",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"இந்திரா நூயி\" mentioned in the news article \"பெஃப்சிகோ நிறுவனத்தின் தலைமை செயலதிகாரி பதவியிலிருந்து விலகுகிறார் இந்திரா நூயி\" is \"Indra Nooyi\".",
+    "image": "tamil_185.jpg",
+    "target": "Indra Nooyi",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q264913",
+    "wikidata_incoming_links": 9,
+    "aliases": [
+      "இந்திரா கிருஷ்ணமூர்த்தி நூயி",
+      "Indra K Nooyi",
+      "Indra K. Nooyi",
+      "Indra Krishnamurthy",
+      "Indra Krishnamurthy Nooyi"
+    ]
+  },
+  {
+    "title": "மேட்டுப்பாளையம் 'தீண்டாமை சுவர்' விவகாரம்: 3000 தலித்துகள் இஸ்லாம் மதத்திற்கு மாற திட்டம்",
+    "entity": "மேட்டுப்பாளையம்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Mettupalayam\".",
+    "image": "tamil_930.jpg",
+    "target": "Mettupalayam, Coimbatore",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q198131",
+    "wikidata_incoming_links": 9,
+    "aliases": []
+  },
+  {
+    "title": "கோரக்பூர் அரசு மருத்துவமனையில் மீண்டும் 42 குழந்தைகள் மரணம்",
+    "entity": "கோரக்பூர்",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'கோரக்பூர்' mentioned in the news article 'கோரக்பூர் அரசு மருத்துவமனையில் மீண்டும் 42 குழந்தைகள் மரணம்' is 'Gorakhpur'.",
+    "image": "tamil_435.jpg",
+    "target": "Gorakhpur, Haryana",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q244415",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "Gorakhpur, Haryana"
+    ]
+  },
+  {
+    "title": "பத்மாவதி திரைப்படத்தை வெளியிட தணிக்கை வாரியம் அனுமதி",
+    "entity": "பத்மாவதி",
+    "prediction": "Padmaavat",
+    "image": "tamil_737.jpg",
+    "target": "Padmaavat",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q27959891",
+    "wikidata_incoming_links": 9,
+    "aliases": []
+  },
+  {
+    "title": "வி.எச்.பி.யில் இருந்து பிரவீன் தொகாடியா விலகல்; காலவரையற்ற உண்ணாவிரதம் அறிவிப்பு",
+    "entity": "வி.எச்.பி.யில்",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Vishva Samaj Party\".",
+    "image": "tamil_749.jpg",
+    "target": "Vishva Hindu Parishad",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2528383",
+    "wikidata_incoming_links": 9,
+    "aliases": [
+      "VHP"
+    ]
+  },
+  {
+    "title": "Monster Hunter: சினிமா விமர்சனம் - டோனி ஜா, மிலா ஜோவோவிச் நடித்துள்ள ஹாலிவுட் படம் எப்படி?",
+    "entity": "Monster Hunter",
+    "prediction": "Monster Hunter (film)",
+    "image": "tamil_578.jpg",
+    "target": "Monster Hunter (film)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q56906869",
+    "wikidata_incoming_links": 8,
+    "aliases": []
+  },
+  {
+    "title": "வந்தே மாதரம் பாடலை கல்வி நிலையங்களில் கட்டாயம் பாடவேண்டும்: சென்னை உயர் நீதிமன்றம்",
+    "entity": "சென்னை உயர் நீதிமன்றம்",
+    "prediction": "Madras High Court",
+    "image": "tamil_38.jpg",
+    "target": "Madras High Court",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q502531",
+    "wikidata_incoming_links": 8,
+    "aliases": []
+  },
+  {
+    "title": "சபரிமலை வழக்கிலும் நம்பிக்கையே வெல்லுமா? அயோத்தி தீர்ப்பால் நிலவும் எதிர்பார்ப்பு",
+    "entity": "சபரிமலை",
+    "prediction": "Sabarimala",
+    "image": "tamil_325.jpg",
+    "target": "Sabarimala (place)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q60394786",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "Sabari Hill"
+    ]
+  },
+  {
+    "title": "எடப்பாடி- ஓபிஎஸ் அணிகள் இணையுமா? மோதி- பன்னீர்செல்வம் திடீர் சந்திப்பு",
+    "entity": "ஓபிஎஸ்",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"ஓபிஎஸ்\" mentioned in the news article \"எடப்பாடி- ஓபிஎஸ் அணிகள் இணையுமா? மோதி- பன்னீர்செல்வம் திடீர் சந்திப்பு\" is \"O. Panneerselvam\".",
+    "image": "tamil_392.jpg",
+    "target": "O. Panneerselvam",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3523238",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "ஓட்டக்கார தேவர் பன்னீர்செல்வம்",
+      "ஓபிஎஸ்",
+      "பெரியகுளத்தார்",
+      "OPS",
+      "Ottakarathevar Panneerselvam",
+      "Periyakullathar"
+    ]
+  },
+  {
+    "title": "எடப்பாடி- ஓபிஎஸ் அணிகள் இணையுமா? மோதி- பன்னீர்செல்வம் திடீர் சந்திப்பு",
+    "entity": "பன்னீர்செல்வம்",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"பன்னீர்செல்வம்\" mentioned in the news article \"எடப்பாடி- ஓபிஎஸ் அணிகள் இணையுமா? மோதி- பன்னீர்செல்வம் திடீர் சந்திப்பு\" is \"Edappadi K. Palaniswami\".",
+    "image": "tamil_392.jpg",
+    "target": "O. Panneerselvam",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3523238",
+    "wikidata_incoming_links": 10,
+    "aliases": [
+      "ஓட்டக்கார தேவர் பன்னீர்செல்வம்",
+      "ஓபிஎஸ்",
+      "பெரியகுளத்தார்",
+      "OPS",
+      "Ottakarathevar Panneerselvam",
+      "Periyakullathar"
+    ]
+  }
+]

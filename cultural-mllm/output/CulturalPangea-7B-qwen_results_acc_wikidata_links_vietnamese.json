@@ -1,0 +1,1373 @@
+[
+  {
+    "title": "Phạm Kim Ngọc: 'Một con người và kinh tế gia can đảm'",
+    "entity": "Phạm Kim Ngọc",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Phạm Kim Ngọc\".",
+    "image": "vietnamese_458.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q114680393",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Tìm thấy thi thể thủy thủ USS Fitzgerald",
+    "entity": "USS Fitzgerald",
+    "prediction": "USS Fitzgerald (DDG-62)",
+    "image": "vietnamese_131.jpg",
+    "target": "USS Fitzgerald",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1806646",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "DDG-62"
+    ]
+  },
+  {
+    "title": "Ba quân nhân Nga chết vì sự cố mặt đất của phi cơ ném bom chiến lược Tu-22M3",
+    "entity": "Tu - 22M3",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Tu - 22M3' mentioned in the news article 'Ba quân nhân Nga chết vì sự cố mặt đất của phi cơ ném bom chiến lược Tu-22M3' is 'Tu-22M3'.",
+    "image": "vietnamese_165.jpg",
+    "target": "Tupolev Tu-22M3",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q124362173",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Tu-22M3"
+    ]
+  },
+  {
+    "title": "Đặng Thế Phong - sống và chết trước khi thời cơ đến (phần 1)",
+    "entity": "Đặng Thế Phong",
+    "prediction": "Đặng Thế Phong",
+    "image": "vietnamese_357.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10841564",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Nữ doanh nhân Việt dự Hội nghị Thượng đỉnh Doanh nhân Toàn cầu",
+    "entity": "Hội nghị Thượng đỉnh Doanh nhân Toàn cầu",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"World Economic Forum\".",
+    "image": "vietnamese_943.jpg",
+    "target": "Global Entrepreneurship Summit",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q85763706",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Thuyết Thiên Mệnh tạo sự mờ ảo về chủ quyền và lãnh thổ",
+    "entity": "Thuyết Thiên Mệnh",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Mandate of Heaven\".",
+    "image": "vietnamese_816.jpg",
+    "target": "Mandate of Heaven",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q875377",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Nhiều vệt nước đỏ lại xuất hiện gần Formosa",
+    "entity": "Formosa",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Formosa\" mentioned in the news article \"Nhiều vệt nước đỏ lại xuất hiện gần Formosa\" is \"Formosa Plastics Group\".",
+    "image": "vietnamese_857.jpg",
+    "target": "Formosa Ha Tinh Steel",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q24027740",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Will Nguyễn và những ngày trong khám Chí Hòa",
+    "entity": "khám Chí Hòa",
+    "prediction": "Chí Hòa Hospital",
+    "image": "vietnamese_602.jpg",
+    "target": "Chí Hòa Prison",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1319844",
+    "wikidata_incoming_links": 0,
+    "aliases": [
+      "Trại giam Chí Hòa"
+    ]
+  },
+  {
+    "title": "Tổ chức HRW kêu gọi dừng đàn áp Huỳnh Thục Vy",
+    "entity": "Huỳnh Thục Vy",
+    "prediction": "Huỳnh Thục Vy",
+    "image": "vietnamese_65.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q125373885",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Thủ lĩnh Ngọt và thứ âm nhạc \"vị kỷ\"",
+    "entity": "Ngọt",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Ngọt (band)\".",
+    "image": "vietnamese_83.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q54086560",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Số phận loài cá hilsa ở Myanmar",
+    "entity": "hilsa",
+    "prediction": "Hilsa",
+    "image": "vietnamese_704.jpg",
+    "target": "Hilsa kelee",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2015706",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Nhập tịch vào Cyprus: nhiều câu hỏi từ trường hợp ông Phạm Phú Quốc",
+    "entity": "Phạm Phú Quốc",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Phạm Phú Quốc\".",
+    "image": "vietnamese_713.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q30923922",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "NXB Tự do lên tiếng vụ cộng tác viên bị khởi tố vì phát hành sách 'chống phá'",
+    "entity": "NXB Tự do",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"NXB Tự do\".",
+    "image": "vietnamese_780.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q96053262",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "Ông Nguyễn Đức Chung là 'mắt xích quan trọng' trong vụ Đồng Tâm?",
+    "entity": "Đồng Tâm",
+    "prediction": "Đồng Tâm Commune",
+    "image": "vietnamese_425.jpg",
+    "target": "Đồng Tâm, Mỹ Đức",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29515153",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Xã Đồng Tâm",
+      "Đồng Tâm, Mỹ Đức"
+    ]
+  },
+  {
+    "title": "Đồng Tâm: Carl Thayer nói 'Đảng CSVN cần xét lại chiến lược truyền thông của nhà nước'",
+    "entity": "Đồng Tâm",
+    "prediction": "Đồng Tâm Commune",
+    "image": "vietnamese_435.jpg",
+    "target": "Đồng Tâm, Mỹ Đức",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29515153",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Xã Đồng Tâm",
+      "Đồng Tâm, Mỹ Đức"
+    ]
+  },
+  {
+    "title": "Cuộc bố ráp trụ sở Arcos của Liên Xô tại London",
+    "entity": "trụ sở Arcos",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Arcos (building)\".",
+    "image": "vietnamese_499.jpg",
+    "target": "All Russian Co-operative Society",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2612451",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Đội tin tặc APT32 tung hoành ở VN?",
+    "entity": "APT32",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"APT32\".",
+    "image": "vietnamese_107.jpg",
+    "target": "OceanLotus",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q30921186",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "OceanLotus",
+      "APT-C-00",
+      "Cobalt Kitty",
+      "OceanLotus",
+      "OceanLotus Group",
+      "SeaLotus"
+    ]
+  },
+  {
+    "title": "Báo Việt Nam đưa tin vụ MobiFone-AVG 'chưa công bằng'",
+    "entity": "MobiFone",
+    "prediction": "MobiFone",
+    "image": "vietnamese_134.jpg",
+    "target": "MobiFone",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6886703",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Công ty thông tin di động",
+      "Công ty Thông tin di động",
+      "Công ty Thông tin Di động",
+      "Công ty Thông tin Di động Việt Nam",
+      "Công ty Thông tin di động VMS",
+      "Mobifone",
+      "MobiFone",
+      "MobiPhone"
+    ]
+  },
+  {
+    "title": "Biển Đông: \"Nhiều khả năng TQ sẽ trở lại Bãi Tư Chính với dàn khoan\"",
+    "entity": "Bãi Tư Chính",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Paracel Islands\".",
+    "image": "vietnamese_167.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11353806",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Đề nghị kỷ luật tướng Công an Bùi Văn Thành và Trần Việt Tân",
+    "entity": "Bùi Văn Thành",
+    "prediction": "Bui Van Thanh",
+    "image": "vietnamese_179.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10742863",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Việt Khang-Trúc Hồ, hai nhạc sĩ, một mối tình thâm",
+    "entity": "Việt Khang",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Viet Khang\".",
+    "image": "vietnamese_209.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q4120779",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Bộ trưởng Nguyễn Văn Thể 'bút phê' nhiều văn bản vụ Đinh La Thăng",
+    "entity": "Nguyễn Văn Thể",
+    "prediction": "Nguyễn Văn Thể",
+    "image": "vietnamese_228.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10799994",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Nguyen Van The"
+    ]
+  },
+  {
+    "title": "Phụng sự cho nghệ thuật: Thẩm Oánh và ban đàn Myosotis (phần 2)",
+    "entity": "Thẩm Oánh",
+    "prediction": "Tham Oanh",
+    "image": "vietnamese_260.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10826388",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Xã hội dân sự VN nên làm gì sau lễ ký EVFTA?",
+    "entity": "EVFTA",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'EVFTA' mentioned in the news article 'Xã hội dân sự VN nên làm gì sau lễ ký EVFTA?' is 'EU–Vietnam Free Trade Agreement'.",
+    "image": "vietnamese_309.jpg",
+    "target": "European Union–Vietnam Free Trade Agreement",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q65124328",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "EU-Vietnam Free Trade Agreement"
+    ]
+  },
+  {
+    "title": "Giải Ngoại hạng Anh dịp Giáng sinh",
+    "entity": "Giải Ngoại hạng Anh",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Giải Ngoại hạng Anh\" mentioned in the news article \"Giải Ngoại hạng Anh dịp Giáng sinh\" in English is \"Premier League\".",
+    "image": "vietnamese_332.jpg",
+    "target": "Premier League (speedway)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q7240313",
+    "wikidata_incoming_links": 0,
+    "aliases": []
+  },
+  {
+    "title": "ĐH Fulbright Việt Nam có kỳ vọng tự chủ?",
+    "entity": "ĐH Fulbright Việt Nam",
+    "prediction": "Fulbright University Vietnam",
+    "image": "vietnamese_383.jpg",
+    "target": "Fulbright University Vietnam",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q24259245",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Mũi Siccar: Nơi lịch sử Trái Đất được viết lại",
+    "entity": "Mũi Siccar",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Siccar Point\".",
+    "image": "vietnamese_929.jpg",
+    "target": "Siccar Point",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q740491",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Đồng Tâm: Vợ cụ Lê Đình Kình kể chuyện công an đến nhà đòi lấy đi các cánh cửa",
+    "entity": "Đồng Tâm",
+    "prediction": "Đồng Tâm Commune",
+    "image": "vietnamese_990.jpg",
+    "target": "Đồng Tâm, Mỹ Đức",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29515153",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Xã Đồng Tâm",
+      "Đồng Tâm, Mỹ Đức"
+    ]
+  },
+  {
+    "title": "Cách 'ẩm trà' ăn há cảo Hong Kong đúng điệu",
+    "entity": "há cảo",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is 'Hakau'.",
+    "image": "vietnamese_999.jpg",
+    "target": "Har gow",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q842376",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "ha gau",
+      "ha gow",
+      "ha kau",
+      "Hakkao",
+      "shrimp bonnet",
+      "xiajiao"
+    ]
+  },
+  {
+    "title": "Biển Đông, Đường Lưỡi bò và cuộc chiến âm thầm của một người Việt ở Mỹ",
+    "entity": "Đường Lưỡi bò",
+    "prediction": "The entity \"Đường Lưỡi bò\" in the news article refers to the Wikipedia article \"Nine-dash line\".",
+    "image": "vietnamese_825.jpg",
+    "target": "Nine-dash line",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q2735499",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Đường chữ U",
+      "Đường lưỡi bò",
+      "nine-dotted line"
+    ]
+  },
+  {
+    "title": "Đoàn Thị Hương và Siti Aisyah nói 'vô tội'",
+    "entity": "Siti Aisyah",
+    "prediction": "Siti Aisyah",
+    "image": "vietnamese_876.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q28867965",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Tướng Vĩnh 'đưa cả tổ ong vào' còn tướng Hóa nói có 'não bé tham vọng to'",
+    "entity": "Vĩnh",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Nguyễn Vĩnh\".",
+    "image": "vietnamese_883.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10805131",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Đồng Tâm: Mạng xã hội giúp dân hay giúp chính quyền nhiều hơn?",
+    "entity": "Đồng Tâm",
+    "prediction": "Đồng Tâm Commune",
+    "image": "vietnamese_618.jpg",
+    "target": "Đồng Tâm, Mỹ Đức",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q29515153",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Xã Đồng Tâm",
+      "Đồng Tâm, Mỹ Đức"
+    ]
+  },
+  {
+    "title": "Tàu Hải Dương Địa chất 8 của TQ rời Bãi Tư Chính",
+    "entity": "Bãi Tư Chính",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Bãi Tư Chính\" mentioned in the news article \"Tàu Hải Dương Địa chất 8 của TQ rời Bãi Tư Chính\" is \"Reef 4\".",
+    "image": "vietnamese_8.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11353806",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Cuộc đời Phạm Xuân Ẩn là 'im lặng, trung thành và tự do'",
+    "entity": "Phạm Xuân Ẩn",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Phạm Xuân Ẩn\" mentioned in the news article \"Cuộc đời Phạm Xuân Ẩn là 'im lặng, trung thành và tự do'\" is \"Pham Xuan An\".",
+    "image": "vietnamese_23.jpg",
+    "target": "Phạm Xuân Ẩn",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3132804",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Báo châu Á: 'Công Phượng là anh hùng' của VN",
+    "entity": "Công Phượng",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Công Phượng\" mentioned in the news article \"Báo châu Á: 'Công Phượng là anh hùng' của VN\" is \"Công Phượng\".",
+    "image": "vietnamese_73.jpg",
+    "target": "Nguyễn Công Phượng",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q18045362",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Cong Phuong Nguyen"
+    ]
+  },
+  {
+    "title": "Tàu chiến Mỹ lại tiến sát Đá Vành Khăn",
+    "entity": "Đá Vành Khăn",
+    "prediction": "Scarborough Shoal",
+    "image": "vietnamese_516.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q14828457",
+    "wikidata_incoming_links": 1,
+    "aliases": [
+      "Panganiban Reef"
+    ]
+  },
+  {
+    "title": "Vụ bãi Tư Chính \"cực kỳ nguy hiểm\" cho an ninh quốc phòng VN",
+    "entity": "bãi Tư Chính",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Tư Chính\".",
+    "image": "vietnamese_573.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11353806",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Kim Cương - Phần 2: Kịch nói Nam bộ và những khó khăn",
+    "entity": "Kim Cương",
+    "prediction": "Kim Cương",
+    "image": "vietnamese_738.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10779889",
+    "wikidata_incoming_links": 1,
+    "aliases": []
+  },
+  {
+    "title": "Kết thúc vụ xử sơ thẩm Vinashin",
+    "entity": "Vinashin",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Vinashin\" mentioned in the news article \"Kết thúc vụ xử sơ thẩm Vinashin\" is \"Vinashin\".",
+    "image": "vietnamese_414.jpg",
+    "target": "Shipbuilding Industry Corporation",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q4392092",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Tập đoàn VINASHIN",
+      "Tổng công ty Công nghiệp tàu thủy Việt Nam",
+      "VINASHIN",
+      "SBIC",
+      "Vinashin"
+    ]
+  },
+  {
+    "title": "Ông Nguyễn Đức Chung là 'mắt xích quan trọng' trong vụ Đồng Tâm?",
+    "entity": "Nguyễn Đức Chung",
+    "prediction": "Nguyễn Đức Chung",
+    "image": "vietnamese_425.jpg",
+    "target": "Nguyễn Đức Chung",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q10800166",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Người Việt ở Đức \"rất sốc\" về vụ Trịnh Xuân Thanh",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_436.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "VN: Khởi tố 3 cán bộ, làm việc với ông Tất Thành Cang trong vụ án kinh tế lớn",
+    "entity": "Tất Thành Cang",
+    "prediction": "Tất Thành Cang",
+    "image": "vietnamese_113.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10831559",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Cộng đồng AEC: Vừa mừng vừa lo?",
+    "entity": "AEC",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'AEC' mentioned in the news article 'Cộng đồng AEC: Vừa mừng vừa lo?' is 'ASEAN Economic Community'.",
+    "image": "vietnamese_132.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10752701",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Cộng đồng kinh tế ASEAN",
+      "AEC"
+    ]
+  },
+  {
+    "title": "Sử gia Nguyễn Đình Đầu buồn vì sách Petrus Ký bị thu hồi",
+    "entity": "Nguyễn Đình Đầu",
+    "prediction": "Nguyễn Đình Đầu",
+    "image": "vietnamese_162.jpg",
+    "target": "Nguyễn Đình Đầu",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q10800129",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Tương lai GHPGVNTN sau khi Hòa thượng Thích Quảng Độ qua đời",
+    "entity": "GHPGVNTN",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'GHPGVNTN' mentioned in the news article 'Tương lai GHPGVNTN sau khi Hòa thượng Thích Quảng Độ qua đời' is 'Central Committee of the Buddhist Church of Vietnam'.",
+    "image": "vietnamese_163.jpg",
+    "target": "Unified Buddhist Church of Vietnam",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3585467",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "GHPGVNTN",
+      "Giáo hội Phật giáo Việt Nam thống nhất",
+      "Giáo Hội Phật Giáo Việt Nam Thống Nhất"
+    ]
+  },
+  {
+    "title": "Vì sao hai luật sư của ông Trịnh Xuân Thanh rút lui trước phiên xử?",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_396.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "Tướng Chung: ‘Bắt giữ Đỗ Đăng Dư đúng luật’",
+    "entity": "Chung",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Chung (militarist)\".",
+    "image": "vietnamese_928.jpg",
+    "target": "Nguyễn Đức Chung",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10800166",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Nội dung lời khai của vợ Trịnh Xuân Thanh tại tòa Đức",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_937.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "Slovakia ‘bối rối’ vì vụ Trịnh Xuân Thanh",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_971.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "Tướng Hmong Vàng Pao qua đời tại Mỹ",
+    "entity": "Vàng Pao",
+    "prediction": "Vang Pao",
+    "image": "vietnamese_861.jpg",
+    "target": "Vang Pao",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q772637",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Vì sao Đức yêu cầu trao trả Trịnh Xuân Thanh?",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_871.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "Bình luận đa chiều về vụ đình chỉ Chủ tịch Hà Nội Nguyễn Đức Chung",
+    "entity": "Nguyễn Đức Chung",
+    "prediction": "Nguyễn Đức Chung",
+    "image": "vietnamese_875.jpg",
+    "target": "Nguyễn Đức Chung",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q10800166",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Đoàn Thị Hương và Siti Aisyah nói 'vô tội'",
+    "entity": "Đoàn Thị Hương",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Đoàn Thị Hương\" mentioned in the news article \"Đoàn Thị Hương và Siti Aisyah nói 'vô tội'\" is \"Doan Thi Huong\".",
+    "image": "vietnamese_876.jpg",
+    "target": "Doan Thi Huong",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q28864464",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Doan Thi Huong"
+    ]
+  },
+  {
+    "title": "Việt Nam xử các ông Đinh La Thăng, Trịnh Xuân Thanh trong vụ Ethanol Phú Thọ",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_649.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "Gia đình Đoàn Thị Hương chỉ biết 'trông vào Nhà nước'",
+    "entity": "Đoàn Thị Hương",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Đoàn Thị Hương\" mentioned in the news article \"Gia đình Đoàn Thị Hương chỉ biết 'trông vào Nhà nước'\" is \"Doan Thi Huong\".",
+    "image": "vietnamese_692.jpg",
+    "target": "Doan Thi Huong",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q28864464",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Doan Thi Huong"
+    ]
+  },
+  {
+    "title": "Vụ Trịnh Xuân Thanh: Slovakia cho một nhà ngoại giao VN '48 tiếng' để về nước",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_30.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "LS Lê Quốc Quân nói về đồng nghiệp",
+    "entity": "Lê Quốc Quân",
+    "prediction": "Lê Quốc Quân",
+    "image": "vietnamese_32.jpg",
+    "target": "Lê Quốc Quân",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q2496816",
+    "wikidata_incoming_links": 2,
+    "aliases": []
+  },
+  {
+    "title": "Nhạc sĩ Lam Phương qua đời ở tuổi 83",
+    "entity": "Lam Phương",
+    "prediction": "Lam Phương",
+    "image": "vietnamese_81.jpg",
+    "target": "Lam Phương",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6480679",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Lâm Đình Phùng",
+      "Lâm Đình Phùng"
+    ]
+  },
+  {
+    "title": "Đức vẫn yêu cầu cho Trịnh Xuân Thanh ‘trở về Đức’",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_512.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "Slovakia-VN: Khủng hoảng trầm trọng hơn vì vụ Trịnh Xuân Thanh",
+    "entity": "Trịnh Xuân Thanh",
+    "prediction": "Trịnh Xuân Thanh",
+    "image": "vietnamese_761.jpg",
+    "target": "Trịnh Xuân Thanh",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q26945273",
+    "wikidata_incoming_links": 2,
+    "aliases": [
+      "Trinh Xuan Thanh"
+    ]
+  },
+  {
+    "title": "Người dân TP Hồ Chí Minh nói về ông Đinh La Thăng",
+    "entity": "Đinh La Thăng",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Đinh La Thăng\" mentioned in the news article \"Người dân TP Hồ Chí Minh nói về ông Đinh La Thăng\" is \"Đinh La Thăng\".",
+    "image": "vietnamese_143.jpg",
+    "target": "Đinh La Thăng",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q94392",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Tương lai GHPGVNTN sau khi Hòa thượng Thích Quảng Độ qua đời",
+    "entity": "Thích Quảng Độ",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Thích Quảng Độ' mentioned in the news article 'Tương lai GHPGVN sau khi Hòa thượng Thích Quảng Độ qua đời' is 'Thích Quảng Độ'.",
+    "image": "vietnamese_163.jpg",
+    "target": "Thích Quảng Độ",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q964924",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Thich Quang Do"
+    ]
+  },
+  {
+    "title": "Vì sao tờ Cambodia Daily bị buộc phải đóng cửa?",
+    "entity": "Cambodia Daily",
+    "prediction": "Cambodia Daily",
+    "image": "vietnamese_202.jpg",
+    "target": "The Cambodia Daily",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3057820",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Cambodia Daily"
+    ]
+  },
+  {
+    "title": "Việt Khang-Trúc Hồ, hai nhạc sĩ, một mối tình thâm",
+    "entity": "Trúc Hồ",
+    "prediction": "Trúc Hồ (singer)",
+    "image": "vietnamese_209.jpg",
+    "target": "Trúc Hồ",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6153356",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Trúc Hồ ("
+    ]
+  },
+  {
+    "title": "Bộ trưởng Nguyễn Văn Thể 'bút phê' nhiều văn bản vụ Đinh La Thăng",
+    "entity": "Đinh La Thăng",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Đinh La Thăng\" mentioned in the news article \"Bộ trưởng Nguyễn Văn Thể 'bút phê' nhiều văn bản vụ Đinh La Thăng\" is \"Đinh La Thăng\".",
+    "image": "vietnamese_228.jpg",
+    "target": "Đinh La Thăng",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q94392",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Trump và Tập đồng ý‎ tạm đình chỉ thuế quan mới",
+    "entity": "Tập",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Tập\" mentioned in the news article \"Trump và Tập đồng ý‎ tạm đình chỉ thuế quan mới\" is \"Xi Jinping\".",
+    "image": "vietnamese_256.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q22828780",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Jinping Xi",
+      "Xi Jin Ping"
+    ]
+  },
+  {
+    "title": "Trung Quốc: Nữ giáo sư bị khai trừ vì gọi ông Tập là \"trùm mafia\"",
+    "entity": "Tập",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Tập\" mentioned in the news article \"Trung Quốc: Nữ giáo sư bị khai trừ vì gọi ông Tập là \"trùm mafia\"\" is \"Xi Jinping\".",
+    "image": "vietnamese_285.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q22828780",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Jinping Xi",
+      "Xi Jin Ping"
+    ]
+  },
+  {
+    "title": "Facebook xin lỗi về vụ dịch tên ông Tập Cận Bình thành 'Hố Phân'",
+    "entity": "Tập Cận Bình",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Tập Cận Bình\" mentioned in the news article \"Facebook xin lỗi về vụ dịch tên ông Tập Cận Bình thành 'Hố Phân'\" is \"Xi Jinping\".",
+    "image": "vietnamese_290.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q22828780",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Jinping Xi",
+      "Xi Jin Ping"
+    ]
+  },
+  {
+    "title": "CEO Bill Ottman nói gì về Minds.com?",
+    "entity": "Bill Ottman",
+    "prediction": "Bill Ottman",
+    "image": "vietnamese_374.jpg",
+    "target": "Bill Ottman",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q20744607",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Thượng toạ Trí Quang trong bão tố chính trị và đạo pháp",
+    "entity": "Trí Quang",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Trí Quang\".",
+    "image": "vietnamese_897.jpg",
+    "target": "Thích Trí Quang",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1006267",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Việt Nam xử các ông Đinh La Thăng, Trịnh Xuân Thanh trong vụ Ethanol Phú Thọ",
+    "entity": "Đinh La Thăng",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Đinh La Thăng\".",
+    "image": "vietnamese_649.jpg",
+    "target": "Đinh La Thăng",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q94392",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Hòa thượng Thích Trí Quang - 'người chấn hưng Phật giáo thời chiến’",
+    "entity": "Thích Trí Quang",
+    "prediction": "Thích Trí Quang",
+    "image": "vietnamese_669.jpg",
+    "target": "Thích Trí Quang",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1006267",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Thế hệ Quang Hải cần chuẩn bị cho World Cup 2026?",
+    "entity": "Quang Hải",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Quang Hải' mentioned in the news article 'Thế hệ Quang Hải cần chuẩn bị cho World Cup 2026?' is 'Nguyễn Quang Hải'.",
+    "image": "vietnamese_4.jpg",
+    "target": "Nguyễn Quang Hải (footballer, born 1997)",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q24689101",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "The Mountains Sing: Tiểu thuyết Việt Nam làm độc giả phương Tây ‘cảm động’",
+    "entity": "The Mountains Sing",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"The Mountains Sing\" mentioned in the news article \"The Mountains Sing: Tiểu thuyết Việt Nam làm độc giả phương Tây ‘cảm động’\" is \"The Mountains Sing (novel)\".",
+    "image": "vietnamese_28.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q109436250",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Dân cử gốc Việt bàn về việc TNS Janet Nguyễn thất cử",
+    "entity": "Janet Nguyễn",
+    "prediction": "Janet Nguyen",
+    "image": "vietnamese_90.jpg",
+    "target": "Janet Nguyen",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q6153524",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Virus corona: Ca dao, tục ngữ Việt đầy 'tính thời sự' trong mùa dịch",
+    "entity": "Ca dao, tục ngữ Việt",
+    "prediction": "Vietnamese proverbs",
+    "image": "vietnamese_510.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q16547874",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Sau 1969 Trần Bạch Đằng vẫn 'muốn Sài Gòn nổi dậy'",
+    "entity": "Trần Bạch Đằng",
+    "prediction": "Trần Bạch Đằng",
+    "image": "vietnamese_524.jpg",
+    "target": "Tran Bach Dang",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q7833284",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Nguyễn Trương Thiên Lý",
+      "Trần Bạch Ðằng"
+    ]
+  },
+  {
+    "title": "Sử gia Nguyễn Đình Đầu buồn vì sách Petrus Ký bị thu hồi",
+    "entity": "Petrus Ký",
+    "prediction": "Petrus Ký",
+    "image": "vietnamese_162.jpg",
+    "target": "Pétrus Ký",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q655563",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "Pétrus Ký",
+      "Petrus Ky",
+      "Trương Vĩnh Ký"
+    ]
+  },
+  {
+    "title": "\"Vợ ba\" muốn giải phóng phụ nữ Việt?",
+    "entity": "Vợ ba",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Polygamy\".",
+    "image": "vietnamese_338.jpg",
+    "target": "The Third Wife",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q72236475",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "Người vợ ba",
+      "Third Wife",
+      "Vợ Ba"
+    ]
+  },
+  {
+    "title": "Giải thích vụ du học sinh VN và cờ Vàng trong xã hội đa văn hóa của Úc",
+    "entity": "cờ Vàng",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Golden Wattle\".",
+    "image": "vietnamese_344.jpg",
+    "target": "Flag of South Vietnam",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q1740429",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "cờ vàng",
+      "cờ vàng ba gạch đỏ",
+      "cờ vàng ba sọc đỏ",
+      "Lá cờ Tự do và Di sản",
+      "quốc kì Việt Nam Cộng hòa",
+      "quốc kỳ Quốc gia Việt Nam",
+      "quốc kỳ Việt Nam Cộng hoà",
+      "flag of the Republic of Vietnam",
+      "flag of the State of Vietnam",
+      "gold flag with three red stripes",
+      "South Vietnam flag",
+      "South Vietnamese flag",
+      "Vietnamese Heritage and Freedom Flag"
+    ]
+  },
+  {
+    "title": "RCEP: Trung Quốc nói Hoa Kỳ ‘không thể phá bĩnh’",
+    "entity": "RCEP",
+    "prediction": "Regional Comprehensive Economic Partnership",
+    "image": "vietnamese_925.jpg",
+    "target": "Regional Comprehensive Economic Partnership",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q11523819",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "協定對作經濟全面區域",
+      "RCEP"
+    ]
+  },
+  {
+    "title": "Bão Jebi khiến Nhật Bản phải đóng sân bay Kansai",
+    "entity": "Bão Jebi",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Bão Jebi\" mentioned in the news article \"Bão Jebi khiến Nhật Bản phải đóng sân bay Kansai\" is \"Typhoon Jebi\".",
+    "image": "vietnamese_880.jpg",
+    "target": "Typhoon Jebi",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q56273160",
+    "wikidata_incoming_links": 4,
+    "aliases": [
+      "Typhoon Maymay"
+    ]
+  },
+  {
+    "title": "Công ty có vốn Thái mua nhiều cổ phần Sabeco?",
+    "entity": "Sabeco",
+    "prediction": "Sabeco",
+    "image": "vietnamese_680.jpg",
+    "target": "Sabeco Brewery",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q129645",
+    "wikidata_incoming_links": 3,
+    "aliases": [
+      "Bia Sài Gòn",
+      "Sabeco",
+      "BIA SAIGON"
+    ]
+  },
+  {
+    "title": "VN bắt thêm 4 người trong vụ án Nguyễn Văn Đài",
+    "entity": "Nguyễn Văn Đài",
+    "prediction": "Nguyễn Văn Đài",
+    "image": "vietnamese_545.jpg",
+    "target": "Nguyễn Văn Đài",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q10800041",
+    "wikidata_incoming_links": 3,
+    "aliases": []
+  },
+  {
+    "title": "Về cuộc tập trận Hổ mang Vàng",
+    "entity": "Hổ mang Vàng",
+    "prediction": "Golden Tiger (military exercise)",
+    "image": "vietnamese_752.jpg",
+    "target": "Cobra Gold",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q11302398",
+    "wikidata_incoming_links": 4,
+    "aliases": []
+  },
+  {
+    "title": "Amabie, 'bùa yểm' chống Covid-19 của người Nhật",
+    "entity": "Amabie",
+    "prediction": "Amabie",
+    "image": "vietnamese_400.jpg",
+    "target": "Amabie",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q4738985",
+    "wikidata_incoming_links": 7,
+    "aliases": []
+  },
+  {
+    "title": "30/04: Nhắc lại cuộc đời cố tổng thống VNCH Trần Văn Hương",
+    "entity": "Trần Văn Hương",
+    "prediction": "Trần Văn Hương",
+    "image": "vietnamese_449.jpg",
+    "target": "Trần Văn Hương",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q1936777",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "USS Carl Vinson đến VN: Quan hệ Mỹ - Việt 'trưởng thành'",
+    "entity": "USS Carl Vinson",
+    "prediction": "USS Carl Vinson",
+    "image": "vietnamese_142.jpg",
+    "target": "USS Carl Vinson",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q748902",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "CVN-70"
+    ]
+  },
+  {
+    "title": "Đời tỷ phú Nga Pugachev: Putin, tiền bạc và những lời dọa giết",
+    "entity": "Pugachev",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Pugachev\" mentioned in the news article \"Đời tỷ phú Nga Pugachev: Putin, tiền bạc và những lời dọa giết\" is \"Vladimir Pugachev\".",
+    "image": "vietnamese_268.jpg",
+    "target": "Sergei Pugachev",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3479763",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Sergei Viktorovich Pugachev"
+    ]
+  },
+  {
+    "title": "Bộ Y tế Việt Nam cần làm gì trước vấn đề 'kê đơn bán thuốc tự do'?",
+    "entity": "Bộ Y tế Việt Nam",
+    "prediction": "Ministry of Health of Vietnam",
+    "image": "vietnamese_877.jpg",
+    "target": "Ministry of Health (Vietnam)",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q6867111",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Bộ Y tế Việt Nam",
+      "MOH"
+    ]
+  },
+  {
+    "title": "Hoa hậu H'Hen Niê nói với BBC cô hạnh phúc 'khi tự lập’",
+    "entity": "HHen Niê",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"H'Hen Niê\".",
+    "image": "vietnamese_881.jpg",
+    "target": "H'Hen Niê",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q47090654",
+    "wikidata_incoming_links": 5,
+    "aliases": []
+  },
+  {
+    "title": "Vụ Xuân Anh và Bá Cảnh là thất vọng nữa về 'hạt giống đỏ'?",
+    "entity": "Xuân Anh",
+    "prediction": "The Wikipedia page title that best matches the entity mentioned in the news article in English is \"Xuân Anh (politician)\".",
+    "image": "vietnamese_634.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10800058",
+    "wikidata_incoming_links": 6,
+    "aliases": []
+  },
+  {
+    "title": "Trung Quốc 'không vui' với chuyến thăm VN của USS Carl Vinson?",
+    "entity": "USS Carl Vinson",
+    "prediction": "USS Carl Vinson",
+    "image": "vietnamese_528.jpg",
+    "target": "USS Carl Vinson",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q748902",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "CVN-70"
+    ]
+  },
+  {
+    "title": "Ông Nguyễn Xuân Anh ‘sắp mất chức Chủ tịch HĐND'",
+    "entity": "Nguyễn Xuân Anh",
+    "prediction": "Nguyễn Xuân Anh",
+    "image": "vietnamese_583.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10800058",
+    "wikidata_incoming_links": 6,
+    "aliases": []
+  },
+  {
+    "title": "Chơi Tết ở Phan Thiết, thăm chợ đêm, nếm cốm hộc",
+    "entity": "Tết",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Tết\" mentioned in the news article \"Chơi Tết ở Phan Thiết, thăm chợ đêm, nếm cốm hộc\" is \"Vietnamese New Year\".",
+    "image": "vietnamese_488.jpg",
+    "target": "Tết",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q912988",
+    "wikidata_incoming_links": 5,
+    "aliases": [
+      "Tết",
+      "Nông Lịch Tân Niên",
+      "Tết âm lịch",
+      "Tết Cả",
+      "Tết cổ truyền",
+      "Tết cổ truyền Việt Nam",
+      "Tết Nguyên Ðán",
+      "Tết Ta",
+      "Vietnamese New Year"
+    ]
+  },
+  {
+    "title": "Ngày quan trọng' trong kỳ Đại hội Đảng XII",
+    "entity": "Đại hội Đảng XII",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Đại hội Đảng XII\" mentioned in the news article \"Ngày quan trọng' trong kỳ Đại hội Đảng XII\" is \"12th National Congress of the Communist Party of Vietnam\".",
+    "image": "vietnamese_245.jpg",
+    "target": "National Congress of the Communist Party of Vietnam",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q5951433",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "Đại hội Đảng Cộng sản Việt Nam"
+    ]
+  },
+  {
+    "title": "Vụ Thủ Thiêm 'đã động đến các quyền của dân'",
+    "entity": "Thủ Thiêm",
+    "prediction": "The Wikipedia page title that corresponds to the entity 'Thủ Thiêm' mentioned in the news article 'Vụ Thủ Thiêm 'đã động đến các quyền của dân'' is 'Thu Thiem New Urban Area'.",
+    "image": "vietnamese_275.jpg",
+    "target": "Thủ Thiêm",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q10826732",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "Phường Thủ Thiêm",
+      "Thủ Thiêm, Thành Phố Thủ Đức",
+      "Thu Thiem",
+      "Thủ Thiêm, Thu Duc City"
+    ]
+  },
+  {
+    "title": "Gấu trúc song sinh ở Đức tên Hong-Kong",
+    "entity": "Gấu trúc",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Gấu trúc\" mentioned in the news article \"Gấu trúc song sinh ở Đức tên Hong-Kong\" is \"Giant panda\".",
+    "image": "vietnamese_915.jpg",
+    "target": "NIL",
+    "is_correct": false,
+    "loss": null,
+    "wikidata_id": "Q3850736",
+    "wikidata_incoming_links": 6,
+    "aliases": []
+  },
+  {
+    "title": "Vì sao chuyến đi Bắc Hàn dẫn tới cái chết của Otto Warmbier?",
+    "entity": "Otto Warmbier",
+    "prediction": "The Wikipedia page title that corresponds to the entity \"Otto Warmbier\" mentioned in the news article \"Vì sao chuyến đi Bắc Hàn dẫn tới cái chết của Otto Warmbier?\" is \"Otto Warmbier\".",
+    "image": "vietnamese_918.jpg",
+    "target": "Otto Warmbier",
+    "is_correct": true,
+    "loss": null,
+    "wikidata_id": "Q22279524",
+    "wikidata_incoming_links": 6,
+    "aliases": [
+      "Otto Frederick Warmbier",
+      "Otto Frederick Warmbier Warmbier",
+      "Warmbier",
+      "Otto Frederick Warmbier"
+    ]
+  }
+]
