@@ -191,12 +191,24 @@ def wd_outgoing_links_distinct_props(qid: str) -> Optional[int]:
 
 # ------------------------ Orchestrator ------------------------
 
-def wikipedia_profile_by_title(title: str, lang: str = "en") -> Dict[str, Any]:
+def get_title_from_qid(qid: str, lang: str = "en") -> Optional[str]:
+    """Resolve the Wikipedia title for a given QID and language edition."""
+    site_key = f"{lang}wiki"
+    data = _get("https://www.wikidata.org/w/api.php",
+                {"action": "wbgetentities", "ids": qid, "props": "sitelinks", "format": "json"})
+    try:
+        ent = data["entities"][qid]
+        return ent["sitelinks"][site_key]["title"]
+    except Exception:
+        return None
+
+
+def wikipedia_profile_by_title(title: str, lang: str = "en", *, qid: Optional[str] = None) -> Dict[str, Any]:
     """
     Return ALL requested columns + summary + full content for a Wikipedia page
     identified by (title, lang). Also resolves the linked Wikidata item.
     """
-    qid = get_qid_from_title(title, lang)  # prop=pageprops.wikibase_item
+    qid = qid or get_qid_from_title(title, lang)  # prop=pageprops.wikibase_item
     profile = {
         "Input_Lang": lang,
         "Input_Title": title,
@@ -249,11 +261,59 @@ def wikipedia_profile_by_title(title: str, lang: str = "en") -> Dict[str, Any]:
     return profile
 
 
+def wikipedia_profile_by_qid(qid: str, lang: str = "en") -> Dict[str, Any]:
+    """
+    Return the same profile as `wikipedia_profile_by_title`, but keyed off a Wikidata QID.
+    Falls back to Wikidata-only metrics if the language has no associated article.
+    """
+    title = get_title_from_qid(qid, lang)
+    if title:
+        return wikipedia_profile_by_title(title, lang, qid=qid)
+
+    # No sitelink for the requested language; still surface Wikidata stats.
+    profile = {
+        "Input_Lang": lang,
+        "Input_Title": None,
+        "English_Wikipedia_Title": None,
+        "Wikidata_ID": qid,
+        "wikipedia_pageviews_90d": None,
+        "wikipedia_backlinks": None,
+        "article_size_bytes": None,
+        "revision_count": None,
+        "unique_editors": None,
+        "category_count": None,
+        "image_count": None,
+        "external_links": None,
+        "reference_count": None,
+        "summary": None,
+        "content": None,
+    }
+    age_days = wd_entity_age_days(qid)
+    claims = wd_claims_and_sitelinks(qid)
+    profile.update({
+        "wikidata_incoming_links": wd_incoming_links(qid),
+        "wikidata_outgoing_links": wd_outgoing_links_distinct_props(qid),
+        "language_editions": claims.get("language_editions"),
+        "statement_count": claims.get("statement_count"),
+        "has_wikidata_image": claims.get("has_wikidata_image"),
+        "qualifier_count": claims.get("qualifier_count"),
+        "entity_age_days": age_days,
+        "entity_age_years": (round(age_days/365.25, 2) if isinstance(age_days, int) else None),
+    })
+    return profile
+
+
 if __name__ == "__main__":
     # Example usage
-    title = "तेजिंदर पाल सिंह बग्गा: 'हमलावर' से बीजेपी उम्मीदवार तक" 
-    lang = "hi"
-    # profile = get_qid_from_title(title, lang)
-    profile = get_qid_from_title(title, lang)
-    for k, v in profile.items():
-        print(f"{k}: {v}")
+    # title = "तेजिंदर पाल सिंह बग्गा: 'हमलावर' से बीजेपी उम्मीदवार तक" 
+    # lang = "hi"
+    # qid = get_qid_from_title(title, lang)
+    # if qid:
+    #     profile = wikipedia_profile_by_qid(qid, lang)
+    #     for k, v in profile.items():
+    #         print(f"{k}: {v}")
+    # else:
+    #     print("QID not found for sample title.")
+    
+    i = wikipedia_profile_by_qid('Q29476895', 'hi')
+    print(i)
