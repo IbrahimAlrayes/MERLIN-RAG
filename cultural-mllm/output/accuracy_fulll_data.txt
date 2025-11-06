@@ -1,9 +1,0 @@
-==================================================
-OVERALL RESULTS FOR MODEL CULTURALPANGEA-7B-QWEN FOR ALL LANGUAGES
-==================================================
-Hindi: 76.94%
-Tamil: 76.24%
-Indonesian: 80.60%
-Japanese: 85.76%
-Vietnamese: 85.70%
-Average Accuracy: 81.05%

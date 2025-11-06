@@ -1,8 +1,7 @@
-# Notebook-ready: run this whole cell
-
 import requests, time
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, List, Optional
+from functools import lru_cache
 
 HEADERS = {"User-Agent": "AgenticRAG/1.0 (hemoner1@gmail.com)"}
 REQUEST_DELAY = 0.20
@@ -202,6 +201,10 @@ def get_title_from_qid(qid: str, lang: str = "en") -> Optional[str]:
     except Exception:
         return None
 
+@lru_cache(maxsize=None)
+def get_title_from_qid_cached(qid: str, lang: str) -> Optional[str]:
+    return get_title_from_qid(qid, lang)
+
 
 def wikipedia_profile_by_title(title: str, lang: str = "en", *, qid: Optional[str] = None) -> Dict[str, Any]:
     """
@@ -261,50 +264,112 @@ def wikipedia_profile_by_title(title: str, lang: str = "en", *, qid: Optional[st
     return profile
 
 
+# def wikipedia_profile_by_qid(qid: str, lang: str = "en") -> Dict[str, Any]:
+#     """
+#     Return the same profile as `wikipedia_profile_by_title`, but keyed off a Wikidata QID.
+#     Falls back to Wikidata-only metrics if the language has no associated article.
+#     """
+#     title = get_title_from_qid(qid, lang)
+#     if title:
+#         return wikipedia_profile_by_title(title, lang, qid=qid)
+
+#     # No sitelink for the requested language; still surface Wikidata stats.
+#     profile = {
+#         "Input_Lang": lang,
+#         "Input_Title": None,
+#         "English_Wikipedia_Title": None,
+#         "Wikidata_ID": qid,
+#         "wikipedia_pageviews_90d": None,
+#         "wikipedia_backlinks": None,
+#         "article_size_bytes": None,
+#         "revision_count": None,
+#         "unique_editors": None,
+#         "category_count": None,
+#         "image_count": None,
+#         "external_links": None,
+#         "reference_count": None,
+#         "summary": None,
+#         "content": None,
+#     }
+#     age_days = wd_entity_age_days(qid)
+#     claims = wd_claims_and_sitelinks(qid)
+#     profile.update({
+#         "wikidata_incoming_links": wd_incoming_links(qid),
+#         "wikidata_outgoing_links": wd_outgoing_links_distinct_props(qid),
+#         "language_editions": claims.get("language_editions"),
+#         "statement_count": claims.get("statement_count"),
+#         "has_wikidata_image": claims.get("has_wikidata_image"),
+#         "qualifier_count": claims.get("qualifier_count"),
+#         "entity_age_days": age_days,
+#         "entity_age_years": (round(age_days/365.25, 2) if isinstance(age_days, int) else None),
+#     })
+#     return profile
+
 def wikipedia_profile_by_qid(qid: str, lang: str = "en") -> Dict[str, Any]:
     """
-    Return the same profile as `wikipedia_profile_by_title`, but keyed off a Wikidata QID.
-    Falls back to Wikidata-only metrics if the language has no associated article.
+    Enhanced version:
+    1) Try language-specific sitelink first
+    2) If missing, fallback to English sitelink
+    3) If still missing, fallback to Wikidata-only stats
     """
-    title = get_title_from_qid(qid, lang)
-    if title:
-        return wikipedia_profile_by_title(title, lang, qid=qid)
 
-    # No sitelink for the requested language; still surface Wikidata stats.
-    profile = {
-        "Input_Lang": lang,
-        "Input_Title": None,
-        "English_Wikipedia_Title": None,
-        "Wikidata_ID": qid,
-        "wikipedia_pageviews_90d": None,
-        "wikipedia_backlinks": None,
-        "article_size_bytes": None,
-        "revision_count": None,
-        "unique_editors": None,
-        "category_count": None,
-        "image_count": None,
-        "external_links": None,
-        "reference_count": None,
-        "summary": None,
-        "content": None,
-    }
-    age_days = wd_entity_age_days(qid)
-    claims = wd_claims_and_sitelinks(qid)
-    profile.update({
-        "wikidata_incoming_links": wd_incoming_links(qid),
-        "wikidata_outgoing_links": wd_outgoing_links_distinct_props(qid),
-        "language_editions": claims.get("language_editions"),
-        "statement_count": claims.get("statement_count"),
-        "has_wikidata_image": claims.get("has_wikidata_image"),
-        "qualifier_count": claims.get("qualifier_count"),
-        "entity_age_days": age_days,
-        "entity_age_years": (round(age_days/365.25, 2) if isinstance(age_days, int) else None),
-    })
+    # 1️⃣ Initial attempt with target language
+    title = get_title_from_qid_cached(qid, lang)
+
+    # ✅ Fallback to English Wikipedia if missing sitelink in target language
+    if not title:
+        en_title = get_title_from_qid_cached(qid, "en")
+        if en_title:
+            print(f"[FALLBACK] {qid}: No {lang}wiki sitelink. Using English page: {en_title}")
+            profile = wikipedia_profile_by_title(en_title, "en", qid=qid)
+            profile["English_Wikipedia_Title"] = en_title
+            profile["fallback_lang"] = "en"
+            return profile
+
+        # ❌ No Wikipedia page in requested language OR English → Wikidata only
+        print(f"[MISS] {qid}: No Wikipedia sitelinks in {lang} or en")
+        profile = {
+            "Input_Lang": lang,
+            "Input_Title": None,
+            "English_Wikipedia_Title": None,
+            "Wikidata_ID": qid,
+            "fallback_lang": None,
+            "wikipedia_pageviews_90d": None,
+            "wikipedia_backlinks": None,
+            "article_size_bytes": None,
+            "revision_count": None,
+            "unique_editors": None,
+            "category_count": None,
+            "image_count": None,
+            "external_links": None,
+            "reference_count": None,
+            "summary": None,
+            "content": None,
+        }
+
+        # ✅ Still include Wikidata enrichment
+        age_days = wd_entity_age_days(qid)
+        claims = wd_claims_and_sitelinks(qid)
+        profile.update({
+            "wikidata_incoming_links": wd_incoming_links(qid),
+            "wikidata_outgoing_links": wd_outgoing_links_distinct_props(qid),
+            "language_editions": claims.get("language_editions"),
+            "statement_count": claims.get("statement_count"),
+            "has_wikidata_image": claims.get("has_wikidata_image"),
+            "qualifier_count": claims.get("qualifier_count"),
+            "entity_age_days": age_days,
+            "entity_age_years": (round(age_days / 365.25, 2) if isinstance(age_days, int) else None),
+        })
+        return profile
+
+    # ✅ Full success path (language-specific Wikipedia exists)
+    print(f"[OK] {qid}: Found {lang}wiki page: {title}")
+    profile = wikipedia_profile_by_title(title, lang, qid=qid)
+    profile["English_Wikipedia_Title"] = get_title_from_qid_cached(qid, "en")  # Fill for downstream code
+    profile["fallback_lang"] = None
     return profile
 
-
 if __name__ == "__main__":
-    # Example usage
     # title = "तेजिंदर पाल सिंह बग्गा: 'हमलावर' से बीजेपी उम्मीदवार तक" 
     # lang = "hi"
     # qid = get_qid_from_title(title, lang)
